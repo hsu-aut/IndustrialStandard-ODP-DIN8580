@@ -16,9 +16,12 @@ This repository contains an ontology of DIN8580 which is a standard to describe 
  - [ISO 22400-2](https://github.com/hsu-aut/IndustrialStandard-ODP-ISO22400-2)
 
 
-## DIN8580
+## DIN 8580
+DIN 8580 is a German standard that defines a taxonomy of process types in discrete manufacturing. Unfortunately, the standard is German only - there is no official translation. 
+DIN 8580 features a total of six main groups, which are further subdivided into groups and subgroups. The following image shows the main groups (*Urformen*, *Umformen*, *Trennen*, ...) as well as the groups that are subordinate to *Trennen* and the more detailed processes that further detail *Spanen mit geometrisch bestimmten Schneiden*.
+![image](https://user-images.githubusercontent.com/50097079/222157072-5eb3cd5a-64c6-4dca-9cf5-182e52c69790.png)
 
-TBD 
+The ontology in this repository is a 1:1 representation of this taxonomy using only `rdfs:subClassOf` as a relation. There are no object or data properties and this ontology is typically used to type processes.
 
 ## Usage
 If you want to this ontology design pattern, the easiest way is to directly import it into your ontology via `owl:imports` statements. Make sure to reference a fixed release version so that you can't get surprised by future changes. To do so, click on the branch selection right below the number of commits and select a tag from the dropdown, e.g. v1.4.2. Then navigate to the .owl-file and open the raw file. For this example it would be https://raw.githubusercontent.com/hsu-aut/IndustrialStandard-ODP-DIN8580/v1.4.2/DIN8580.owl. You can use this URL in an `owl:imports` statement of your ontology. If you're having trouble using this URL in a tool like Protégé, try opening your ontology with a text editor and simply inserting your imports manually.
