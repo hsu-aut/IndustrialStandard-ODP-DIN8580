@@ -331,7 +331,7 @@ Beschichten durch Schweissen ist nur durch Schmelzschweissen moeglich.</rdfs:com
         <rdfs:comment>Untergruppe 5.4.3
 DIN EN 657</rdfs:comment>
         <rdfs:label xml:lang="de">Beschichten_durch_thermisches_Spritzen</rdfs:label>
-        <rdfs:label xml:lang="en">Therrmal_spray_coating</rdfs:label>
+        <rdfs:label xml:lang="en">Thermal_spray_coating</rdfs:label>
     </owl:Class>
     
 
