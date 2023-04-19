@@ -41,8 +41,8 @@ DIN 8591</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Abscheiden_aus_der_Dampfphase_in_einer_Form">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_gas-_oder_dampffoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.8.1</rdfs:comment>
-        <rdfs:label xml:lang="de">Abscheiden_aus_der_Dampfphase_in_einer_Form</rdfs:label>
-        <rdfs:label xml:lang="en">Vapor_deposition_process_</rdfs:label>
+        <rdfs:label xml:lang="de">Abscheiden aus der Dampfphase in einer Form</rdfs:label>
+        <rdfs:label xml:lang="en">Vapor deposition process </rdfs:label>
     </owl:Class>
     
 
@@ -65,8 +65,8 @@ DIN 8590</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen"/>
         <rdfs:comment>Gruppe 4.3
 DIN 8593-3</rdfs:comment>
-        <rdfs:label xml:lang="de">An-_und_Einpressen</rdfs:label>
-        <rdfs:label xml:lang="en">Pressing_on_and_pressing_in</rdfs:label>
+        <rdfs:label xml:lang="de">An- und Einpressen</rdfs:label>
+        <rdfs:label xml:lang="en">Pressing on and pressing in</rdfs:label>
     </owl:Class>
     
 
@@ -76,7 +76,7 @@ DIN 8593-3</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Anlassen_oder_Auslagern">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Waermebehandeln"/>
         <rdfs:comment>Untergruppe 6.2.4</rdfs:comment>
-        <rdfs:label xml:lang="de">Anlassen_oder_Auslagern</rdfs:label>
+        <rdfs:label xml:lang="de">Anlassen oder Auslagern</rdfs:label>
         <rdfs:label xml:lang="en">Tempering</rdfs:label>
     </owl:Class>
     
@@ -87,8 +87,8 @@ DIN 8593-3</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Anstreichen_oder_Lackieren">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.1.2</rdfs:comment>
-        <rdfs:label xml:lang="de">Anstreichen_oder_Lackieren</rdfs:label>
-        <rdfs:label xml:lang="en">Painting_or_varnishing</rdfs:label>
+        <rdfs:label xml:lang="de">Anstreichen oder Lackieren</rdfs:label>
+        <rdfs:label xml:lang="en">Painting or varnishing</rdfs:label>
     </owl:Class>
     
 
@@ -99,8 +99,8 @@ DIN 8593-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zusammensetzen"/>
         <rdfs:comment>Untergruppe 4.1.1
 DIN 8593-1</rdfs:comment>
-        <rdfs:label xml:lang="de">Auflegen_oder_Aufsetzen_oder_Schichten</rdfs:label>
-        <rdfs:label xml:lang="en">Setting_or_positionning_or_stacking</rdfs:label>
+        <rdfs:label xml:lang="de">Auflegen oder Aufsetzen oder Schichten</rdfs:label>
+        <rdfs:label xml:lang="en">Setting or positionning or stacking</rdfs:label>
     </owl:Class>
     
 
@@ -112,7 +112,7 @@ DIN 8593-1</rdfs:comment>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Auftragweichloeten"/>
         <rdfs:comment>Untergruppe 5.7.2</rdfs:comment>
         <rdfs:label xml:lang="de">Auftraghartloeten</rdfs:label>
-        <rdfs:label xml:lang="en">Build-up_brazing</rdfs:label>
+        <rdfs:label xml:lang="en">Build-up brazing</rdfs:label>
     </owl:Class>
     
 
@@ -123,7 +123,7 @@ DIN 8593-1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_durch_Loeten"/>
         <rdfs:comment>Untergruppe 5.7.1</rdfs:comment>
         <rdfs:label xml:lang="de">Auftragweichloeten</rdfs:label>
-        <rdfs:label xml:lang="en">Build-up_soldering</rdfs:label>
+        <rdfs:label xml:lang="en">Build-up soldering</rdfs:label>
     </owl:Class>
     
 
@@ -135,7 +135,7 @@ DIN 8593-1</rdfs:comment>
         <rdfs:comment>Untergruppe 3.5.1
 DIN 8591</rdfs:comment>
         <rdfs:label xml:lang="de">Auseinandernehmen</rdfs:label>
-        <rdfs:label xml:lang="en">Taking_apart</rdfs:label>
+        <rdfs:label xml:lang="en">Taking apart</rdfs:label>
     </owl:Class>
     
 
@@ -194,7 +194,7 @@ DIN 8589-12</rdfs:comment>
         <rdfs:comment>Untergruppe 3.1.3
 DIN 8588</rdfs:comment>
         <rdfs:label xml:lang="de">Beissschneiden</rdfs:label>
-        <rdfs:label xml:lang="en">Cutting_with_two_approaching_blades</rdfs:label>
+        <rdfs:label xml:lang="en">Cutting with two approaching blades</rdfs:label>
     </owl:Class>
     
 
@@ -205,7 +205,7 @@ DIN 8588</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Photochemische_Verfahren"/>
         <rdfs:comment>Untergruppe 6.7.1</rdfs:comment>
         <rdfs:label xml:lang="de">Belichten</rdfs:label>
-        <rdfs:label xml:lang="en">Exposing_to_light</rdfs:label>
+        <rdfs:label xml:lang="en">Exposing to light</rdfs:label>
     </owl:Class>
     
 
@@ -227,8 +227,8 @@ massgebend ist der unmittelbar vor dem Beschichten herrschende Zustand des Besch
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_breiigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.3</rdfs:comment>
-        <rdfs:label xml:lang="de">Beschichten_aus_dem_breiigen_Zustand</rdfs:label>
-        <rdfs:label xml:lang="en">Coating_from_the_pulpy_state</rdfs:label>
+        <rdfs:label xml:lang="de">Beschichten aus dem breiigen Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Coating from the pulpy state</rdfs:label>
     </owl:Class>
     
 
@@ -238,8 +238,8 @@ massgebend ist der unmittelbar vor dem Beschichten herrschende Zustand des Besch
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_fluessigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.1</rdfs:comment>
-        <rdfs:label xml:lang="de">Beschichten_aus_dem_fluessigen_Zustand</rdfs:label>
-        <rdfs:label xml:lang="en">Coating_from_the_liquid_state</rdfs:label>
+        <rdfs:label xml:lang="de">Beschichten aus dem fluessigen Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Coating from the liquid state</rdfs:label>
     </owl:Class>
     
 
@@ -250,8 +250,8 @@ massgebend ist der unmittelbar vor dem Beschichten herrschende Zustand des Besch
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.8
 Vakuumbeschichten</rdfs:comment>
-        <rdfs:label xml:lang="de">Beschichten_aus_dem_gas-_oder_dampffoermigen_Zustand</rdfs:label>
-        <rdfs:label xml:lang="en">Coating_from_the_gaseous_or_vapour_state</rdfs:label>
+        <rdfs:label xml:lang="de">Beschichten aus dem gas- oder dampffoermigen Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Coating from the gaseous or vapour state</rdfs:label>
     </owl:Class>
     
 
@@ -261,8 +261,8 @@ Vakuumbeschichten</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_ionisierten_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.9</rdfs:comment>
-        <rdfs:label xml:lang="de">Beschichten_aus_dem_ionisierten_Zustand</rdfs:label>
-        <rdfs:label xml:lang="en">Coating_from_the_ionized_state</rdfs:label>
+        <rdfs:label xml:lang="de">Beschichten aus dem ionisierten Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Coating from the ionized state</rdfs:label>
     </owl:Class>
     
 
@@ -272,8 +272,8 @@ Vakuumbeschichten</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_koernigen_oder_pulverfoermigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.4</rdfs:comment>
-        <rdfs:label xml:lang="de">Beschichten_aus_dem_koernigen_oder_pulverfoermigen_Zustand</rdfs:label>
-        <rdfs:label xml:lang="en">Coating_from_the_granular_or_powdery_state</rdfs:label>
+        <rdfs:label xml:lang="de">Beschichten aus dem koernigen oder pulverfoermigen Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Coating from the granular or powdery state</rdfs:label>
     </owl:Class>
     
 
@@ -283,8 +283,8 @@ Vakuumbeschichten</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_plastischen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.2</rdfs:comment>
-        <rdfs:label xml:lang="de">Beschichten_aus_dem_plastischen_Zustand</rdfs:label>
-        <rdfs:label xml:lang="en">Coating_from_the_plastic_state</rdfs:label>
+        <rdfs:label xml:lang="de">Beschichten aus dem plastischen Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Coating from the plastic state</rdfs:label>
     </owl:Class>
     
 
@@ -294,8 +294,8 @@ Vakuumbeschichten</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_durch_Giessen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.1.5</rdfs:comment>
-        <rdfs:label xml:lang="de">Beschichten_durch_Giessen</rdfs:label>
-        <rdfs:label xml:lang="en">Flood_coating</rdfs:label>
+        <rdfs:label xml:lang="de">Beschichten durch Giessen</rdfs:label>
+        <rdfs:label xml:lang="en">Flood coating</rdfs:label>
     </owl:Class>
     
 
@@ -306,8 +306,8 @@ Vakuumbeschichten</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.7
 Verzinken, Verzinnen u. ae. von Draehten, Blechen und Profilen ist dem Wesen nach ein Auftragloeten. Da jedoch die Benennung Loeten fuer diese Verfahren nicht ueblich ist, werden sie in der Untergruppe 5.1.1 und nicht in der Gruppe 5.7 aufgefuehrt.</rdfs:comment>
-        <rdfs:label xml:lang="de">Beschichten_durch_Loeten</rdfs:label>
-        <rdfs:label xml:lang="en">Coating_by_welding</rdfs:label>
+        <rdfs:label xml:lang="de">Beschichten durch Loeten</rdfs:label>
+        <rdfs:label xml:lang="en">Coating by welding</rdfs:label>
     </owl:Class>
     
 
@@ -318,8 +318,8 @@ Verzinken, Verzinnen u. ae. von Draehten, Blechen und Profilen ist dem Wesen nac
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.6
 Beschichten durch Schweissen ist nur durch Schmelzschweissen moeglich.</rdfs:comment>
-        <rdfs:label xml:lang="de">Beschichten_durch_Schweissen</rdfs:label>
-        <rdfs:label xml:lang="en">Weld_coating</rdfs:label>
+        <rdfs:label xml:lang="de">Beschichten durch Schweissen</rdfs:label>
+        <rdfs:label xml:lang="en">Weld coating</rdfs:label>
     </owl:Class>
     
 
@@ -330,8 +330,8 @@ Beschichten durch Schweissen ist nur durch Schmelzschweissen moeglich.</rdfs:com
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_koernigen_oder_pulverfoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.4.3
 DIN EN 657</rdfs:comment>
-        <rdfs:label xml:lang="de">Beschichten_durch_thermisches_Spritzen</rdfs:label>
-        <rdfs:label xml:lang="en">Thermal_spray_coating</rdfs:label>
+        <rdfs:label xml:lang="de">Beschichten durch thermisches Spritzen</rdfs:label>
+        <rdfs:label xml:lang="en">Thermal spray coating</rdfs:label>
     </owl:Class>
     
 
@@ -352,7 +352,7 @@ DIN EN 657</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Bestrahlen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Stoffeigenschaft_aendern"/>
         <rdfs:comment>Gruppe 6.6</rdfs:comment>
-        <rdfs:label xml:lang="en">Abrasive_blasting</rdfs:label>
+        <rdfs:label xml:lang="en">Abrasive blasting</rdfs:label>
         <rdfs:label xml:lang="de">Bestrahlen</rdfs:label>
     </owl:Class>
     
@@ -377,8 +377,8 @@ DIN 8586</rdfs:comment>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Biegeumformen_mit_geradliniger_Werkzeugbewegung"/>
         <rdfs:comment>Untergruppe 2.4.2
 DIN 8586</rdfs:comment>
-        <rdfs:label xml:lang="en">Bending_by_means_of_a_rotary_tool</rdfs:label>
-        <rdfs:label xml:lang="de">Biegeumformen_mit_drehender_Werkzeugbewegung</rdfs:label>
+        <rdfs:label xml:lang="en">Bending by means of a rotary tool</rdfs:label>
+        <rdfs:label xml:lang="de">Biegeumformen mit drehender Werkzeugbewegung</rdfs:label>
     </owl:Class>
     
 
@@ -389,8 +389,8 @@ DIN 8586</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Biegeumformen"/>
         <rdfs:comment>Untergruppe 2.4.1
 DIN 8586</rdfs:comment>
-        <rdfs:label xml:lang="en">Bending_by_means_of_a_rectilinear_moving_tool</rdfs:label>
-        <rdfs:label xml:lang="de">Biegeumformen_mit_geradliniger_Werkzeugbewegung</rdfs:label>
+        <rdfs:label xml:lang="en">Bending by means of a rectilinear moving tool</rdfs:label>
+        <rdfs:label xml:lang="de">Biegeumformen mit geradliniger Werkzeugbewegung</rdfs:label>
     </owl:Class>
     
 
@@ -401,7 +401,7 @@ DIN 8586</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_plastischen_Zustand"/>
         <rdfs:comment>Untergruppe 1.2.7</rdfs:comment>
         <rdfs:label xml:lang="de">Blasformen</rdfs:label>
-        <rdfs:label xml:lang="en">Blow_molding</rdfs:label>
+        <rdfs:label xml:lang="en">Blow molding</rdfs:label>
     </owl:Class>
     
 
@@ -412,8 +412,8 @@ DIN 8586</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Spanen_mit_geometrisch_bestimmten_Schneiden"/>
         <rdfs:comment>Untergruppe 3.2.2
 DIN 8589-2</rdfs:comment>
-        <rdfs:label xml:lang="de">Bohren_oder_Senken_oder_Reiben</rdfs:label>
-        <rdfs:label xml:lang="en">Drilling_or_countersinking_or_reaming</rdfs:label>
+        <rdfs:label xml:lang="de">Bohren oder Senken oder Reiben</rdfs:label>
+        <rdfs:label xml:lang="en">Drilling or countersinking or reaming</rdfs:label>
     </owl:Class>
     
 
@@ -425,7 +425,7 @@ DIN 8589-2</rdfs:comment>
         <rdfs:comment>Untergruppe 3.1.6
 DIN 8588</rdfs:comment>
         <rdfs:label xml:lang="de">Brechen</rdfs:label>
-        <rdfs:label xml:lang="en">Removing_sharp_edges</rdfs:label>
+        <rdfs:label xml:lang="en">Removing sharp edges</rdfs:label>
     </owl:Class>
     
 
@@ -437,7 +437,7 @@ DIN 8588</rdfs:comment>
         <rdfs:comment>Untergruppe 3.2.8
 DIN 8589-8</rdfs:comment>
         <rdfs:label xml:lang="de">Buerstenspanen</rdfs:label>
-        <rdfs:label xml:lang="en">Machining_with_brushlike_tools</rdfs:label>
+        <rdfs:label xml:lang="en">Machining with brushlike tools</rdfs:label>
     </owl:Class>
     
 
@@ -448,8 +448,8 @@ DIN 8589-8</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Abtragen"/>
         <rdfs:comment>Untergruppe 3.4.2
 DIN 8590</rdfs:comment>
-        <rdfs:label xml:lang="en">Chemical_milling</rdfs:label>
-        <rdfs:label xml:lang="de">Chemisches_Abtragen</rdfs:label>
+        <rdfs:label xml:lang="en">Chemical milling</rdfs:label>
+        <rdfs:label xml:lang="de">Chemisches Abtragen</rdfs:label>
     </owl:Class>
     
 
@@ -460,8 +460,8 @@ DIN 8590</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_ionisierten_Zustand"/>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Galvanisches_Beschichten"/>
         <rdfs:comment>Untergruppe 5.9.2</rdfs:comment>
-        <rdfs:label xml:lang="en">Chemical_coating</rdfs:label>
-        <rdfs:label xml:lang="de">Chemisches_Beschichten</rdfs:label>
+        <rdfs:label xml:lang="en">Chemical coating</rdfs:label>
+        <rdfs:label xml:lang="de">Chemisches Beschichten</rdfs:label>
     </owl:Class>
     
 
@@ -472,8 +472,8 @@ DIN 8590</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Reinigen"/>
         <rdfs:comment>Untergruppe 3.6.5
 DIN 8592</rdfs:comment>
-        <rdfs:label xml:lang="en">Chemical_cleaning</rdfs:label>
-        <rdfs:label xml:lang="de">Chemisches_Reinigen</rdfs:label>
+        <rdfs:label xml:lang="en">Chemical cleaning</rdfs:label>
+        <rdfs:label xml:lang="de">Chemisches Reinigen</rdfs:label>
     </owl:Class>
     
 
@@ -507,7 +507,7 @@ DIN 8583-6</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Drucken_oder_Bedrucken">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.1.6</rdfs:comment>
-        <rdfs:label xml:lang="de">Drucken_oder_Bedrucken</rdfs:label>
+        <rdfs:label xml:lang="de">Drucken oder Bedrucken</rdfs:label>
         <rdfs:label xml:lang="en">Printing</rdfs:label>
     </owl:Class>
     
@@ -519,7 +519,7 @@ DIN 8583-6</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.1.2</rdfs:comment>
         <rdfs:label xml:lang="de">Druckgiessen</rdfs:label>
-        <rdfs:label xml:lang="en">Pressure_molding</rdfs:label>
+        <rdfs:label xml:lang="en">Pressure molding</rdfs:label>
     </owl:Class>
     
 
@@ -531,7 +531,7 @@ DIN 8583-6</rdfs:comment>
         <rdfs:comment>Gruppe 2.1
 DIN 8583-1</rdfs:comment>
         <rdfs:label xml:lang="de">Druckumformen</rdfs:label>
-        <rdfs:label xml:lang="en">Forming_under_compressive_conditions</rdfs:label>
+        <rdfs:label xml:lang="en">Forming under compressive conditions</rdfs:label>
     </owl:Class>
     
 
@@ -579,7 +579,7 @@ DIN 8593-4</rdfs:comment>
         <rdfs:comment>Untergruppe 2.1.4
 DIN 8583-5</rdfs:comment>
         <rdfs:label xml:lang="de">Eindruecken</rdfs:label>
-        <rdfs:label xml:lang="en">Pushing_in</rdfs:label>
+        <rdfs:label xml:lang="en">Pushing in</rdfs:label>
     </owl:Class>
     
 
@@ -592,7 +592,7 @@ DIN 8583-5</rdfs:comment>
         <rdfs:comment>Untergruppe 4.2.1
 DIN 8593-2</rdfs:comment>
         <rdfs:label xml:lang="de">Einfuellen</rdfs:label>
-        <rdfs:label xml:lang="en">Filling_in</rdfs:label>
+        <rdfs:label xml:lang="en">Filling in</rdfs:label>
     </owl:Class>
     
 
@@ -627,7 +627,7 @@ DIN 8593-1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zusammensetzen"/>
         <rdfs:comment>Untergruppe 4.1.2
 DIN 8593-1</rdfs:comment>
-        <rdfs:label xml:lang="de">Einlegen_oder_Einsetzen</rdfs:label>
+        <rdfs:label xml:lang="de">Einlegen oder Einsetzen</rdfs:label>
         <rdfs:label xml:lang="en">Fitting</rdfs:label>
     </owl:Class>
     
@@ -651,8 +651,8 @@ DIN 8593-1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Abtragen"/>
         <rdfs:comment>Untergruppe 3.4.3
 DIN 8590</rdfs:comment>
-        <rdfs:label xml:lang="en">Electrochemical_trimming</rdfs:label>
-        <rdfs:label xml:lang="de">Elektrochemisches_Abtragen</rdfs:label>
+        <rdfs:label xml:lang="en">Electrochemical trimming</rdfs:label>
+        <rdfs:label xml:lang="de">Elektrochemisches Abtragen</rdfs:label>
     </owl:Class>
     
 
@@ -662,8 +662,8 @@ DIN 8590</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Elektrolytisches_Abscheiden_in_einer_Form">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_ionisierten_Zustand"/>
         <rdfs:comment>Untergruppe 1.9.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Electrolytic_deposition_in_a_form</rdfs:label>
-        <rdfs:label xml:lang="de">Elektrolytisches_Abscheiden_in_einer_Form</rdfs:label>
+        <rdfs:label xml:lang="en">Electrolytic deposition in a form</rdfs:label>
+        <rdfs:label xml:lang="de">Elektrolytisches Abscheiden in einer Form</rdfs:label>
     </owl:Class>
     
 
@@ -673,8 +673,8 @@ DIN 8590</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Elektrostatisches_Beschichten">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_koernigen_oder_pulverfoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.4.2</rdfs:comment>
-        <rdfs:label xml:lang="en">Electrostatic_coating</rdfs:label>
-        <rdfs:label xml:lang="de">Elektrostatisches_Beschichten</rdfs:label>
+        <rdfs:label xml:lang="en">Electrostatic coating</rdfs:label>
+        <rdfs:label xml:lang="de">Elektrostatisches Beschichten</rdfs:label>
     </owl:Class>
     
 
@@ -684,8 +684,8 @@ DIN 8590</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Emaillieren_oder_Glasieren">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.1.4</rdfs:comment>
-        <rdfs:label xml:lang="de">Emaillieren_oder_Glasieren</rdfs:label>
-        <rdfs:label xml:lang="en">Enemalling_or_glazing</rdfs:label>
+        <rdfs:label xml:lang="de">Emaillieren oder Glasieren</rdfs:label>
+        <rdfs:label xml:lang="en">Enemalling or glazing</rdfs:label>
     </owl:Class>
     
 
@@ -719,8 +719,8 @@ DIN 8591</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zusammensetzen"/>
         <rdfs:comment>Untergruppe 4.1.6
 DIN 8593-1</rdfs:comment>
-        <rdfs:label xml:lang="de">Federnd_Einspreizen</rdfs:label>
-        <rdfs:label xml:lang="en">Snap_fitting</rdfs:label>
+        <rdfs:label xml:lang="de">Federnd Einspreizen</rdfs:label>
+        <rdfs:label xml:lang="en">Snap fitting</rdfs:label>
     </owl:Class>
     
 
@@ -731,8 +731,8 @@ DIN 8593-1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Spanen_mit_geometrisch_bestimmten_Schneiden"/>
         <rdfs:comment>Untergruppe 3.2.7
 DIN 8589-7</rdfs:comment>
-        <rdfs:label xml:lang="de">Feilen_oder_Raspeln</rdfs:label>
-        <rdfs:label xml:lang="en">Filing_or_rasping</rdfs:label>
+        <rdfs:label xml:lang="de">Feilen oder Raspeln</rdfs:label>
+        <rdfs:label xml:lang="en">Filing or rasping</rdfs:label>
     </owl:Class>
     
 
@@ -743,7 +743,7 @@ DIN 8589-7</rdfs:comment>
         <rdfs:comment>alle Verfahren zur Herstellung von geometrisch bestimmten festen Koerpern; 
 sie schliessen die Verfahren zur Gewinnung erster Formen aus dem formlosen Zustand, zur Veraenderung dieser Form sowie zur Veraenderung der Stoffeigenschaften ein</rdfs:comment>
         <rdfs:label xml:lang="de">Fertigungsverfahren</rdfs:label>
-        <rdfs:label xml:lang="en">Manufacturing_processes</rdfs:label>
+        <rdfs:label xml:lang="en">Manufacturing processes</rdfs:label>
     </owl:Class>
     
 
@@ -766,7 +766,7 @@ DIN 8589-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Druckumformen"/>
         <rdfs:comment>Untergruppe 2.1.2
 DIN 8583-3</rdfs:comment>
-        <rdfs:label xml:lang="en">Free_forming</rdfs:label>
+        <rdfs:label xml:lang="en">Free forming</rdfs:label>
         <rdfs:label xml:lang="de">Freiformen</rdfs:label>
     </owl:Class>
     
@@ -791,8 +791,8 @@ DIN 8593-0</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen"/>
         <rdfs:comment>Gruppe 4.7
 DIN 8593-7</rdfs:comment>
-        <rdfs:label xml:lang="de">Fuegen_durch_Loeten</rdfs:label>
-        <rdfs:label xml:lang="en">Joining_by_soldering_or_brazing</rdfs:label>
+        <rdfs:label xml:lang="de">Fuegen durch Loeten</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by soldering or brazing</rdfs:label>
     </owl:Class>
     
 
@@ -803,8 +803,8 @@ DIN 8593-7</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen_durch_Umformen"/>
         <rdfs:comment>Untergruppe 4.5.3
 DIN 8593-5</rdfs:comment>
-        <rdfs:label xml:lang="de">Fuegen_durch_Nietverfahren</rdfs:label>
-        <rdfs:label xml:lang="en">Joining_by_riveting</rdfs:label>
+        <rdfs:label xml:lang="de">Fuegen durch Nietverfahren</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by riveting</rdfs:label>
     </owl:Class>
     
 
@@ -815,8 +815,8 @@ DIN 8593-5</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#An-_und_Einpressen"/>
         <rdfs:comment>Untergruppe 4.3.4
 DIN 8593-3</rdfs:comment>
-        <rdfs:label xml:lang="de">Fuegen_durch_Presspassung</rdfs:label>
-        <rdfs:label xml:lang="en">Press_fitting</rdfs:label>
+        <rdfs:label xml:lang="de">Fuegen durch Presspassung</rdfs:label>
+        <rdfs:label xml:lang="en">Press fitting</rdfs:label>
     </owl:Class>
     
 
@@ -827,8 +827,8 @@ DIN 8593-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen"/>
         <rdfs:comment>Gruppe 4.6
 DIN 8593-6</rdfs:comment>
-        <rdfs:label xml:lang="de">Fuegen_durch_Schweissen</rdfs:label>
-        <rdfs:label xml:lang="en">Joining_by_welding</rdfs:label>
+        <rdfs:label xml:lang="de">Fuegen durch Schweissen</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by welding</rdfs:label>
     </owl:Class>
     
 
@@ -839,8 +839,8 @@ DIN 8593-6</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen"/>
         <rdfs:comment>Gruppe 4.5
 DIN 8593-5</rdfs:comment>
-        <rdfs:label xml:lang="de">Fuegen_durch_Umformen</rdfs:label>
-        <rdfs:label xml:lang="en">Joining_by_bending</rdfs:label>
+        <rdfs:label xml:lang="de">Fuegen durch Umformen</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by bending</rdfs:label>
     </owl:Class>
     
 
@@ -851,7 +851,7 @@ DIN 8593-5</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen_durch_Umformen"/>
         <rdfs:comment>Untergruppe 4.5.2
 DIN 8593-5</rdfs:comment>
-        <rdfs:label xml:lang="de">Fuegen_durch_Umformen_bei_Blech-_Rohr-_und_Profilteilen</rdfs:label>
+        <rdfs:label xml:lang="de">Fuegen durch Umformen bei Blech- Rohr- und Profilteilen</rdfs:label>
         <rdfs:label xml:lang="en">Joining_by_bending_of_sheet_metal/tubing/profiles</rdfs:label>
     </owl:Class>
     
@@ -863,8 +863,8 @@ DIN 8593-5</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen_durch_Umformen"/>
         <rdfs:comment>Untergruppe 4.5.1
 DIN 8593-5</rdfs:comment>
-        <rdfs:label xml:lang="de">Fuegen_durch_Umformen_drahtfoermiger_Koerper</rdfs:label>
-        <rdfs:label xml:lang="en">Joinng_by_bending_wire-shaped_elements</rdfs:label>
+        <rdfs:label xml:lang="de">Fuegen durch Umformen drahtfoermiger Koerper</rdfs:label>
+        <rdfs:label xml:lang="en">Joinng by bending wire-shaped elements</rdfs:label>
     </owl:Class>
     
 
@@ -875,8 +875,8 @@ DIN 8593-5</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen"/>
         <rdfs:comment>Gruppe 4.4
 DIN 8593-4</rdfs:comment>
-        <rdfs:label xml:lang="de">Fuegen_durch_Urformen</rdfs:label>
-        <rdfs:label xml:lang="en">Joining_by_primary_forming</rdfs:label>
+        <rdfs:label xml:lang="de">Fuegen durch Urformen</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by primary forming</rdfs:label>
     </owl:Class>
     
 
@@ -898,8 +898,8 @@ DIN 8593-2</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Galvanisches_Beschichten">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_ionisierten_Zustand"/>
         <rdfs:comment>Untergruppe 5.9.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Electrolytic_coating</rdfs:label>
-        <rdfs:label xml:lang="de">Galvanisches_Beschichten</rdfs:label>
+        <rdfs:label xml:lang="en">Electrolytic coating</rdfs:label>
+        <rdfs:label xml:lang="de">Galvanisches Beschichten</rdfs:label>
     </owl:Class>
     
 
@@ -910,7 +910,7 @@ DIN 8593-2</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Druckumformen"/>
         <rdfs:comment>Untergruppe 2.1.3
 DIN 8583-4</rdfs:comment>
-        <rdfs:label xml:lang="en">Die_forming</rdfs:label>
+        <rdfs:label xml:lang="en">Die forming</rdfs:label>
         <rdfs:label xml:lang="de">Gesenkformen</rdfs:label>
     </owl:Class>
     
@@ -922,8 +922,8 @@ DIN 8583-4</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_breiigen_Zustand"/>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Giessen_von_Porzellan_oder_Keramik"/>
         <rdfs:comment>Untergruppe 1.3.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Concrete_or_plaster_casting</rdfs:label>
-        <rdfs:label xml:lang="de">Giessen_von_Beton_oder_Gips</rdfs:label>
+        <rdfs:label xml:lang="en">Concrete or plaster casting</rdfs:label>
+        <rdfs:label xml:lang="de">Giessen von Beton oder Gips</rdfs:label>
     </owl:Class>
     
 
@@ -933,8 +933,8 @@ DIN 8583-4</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Giessen_von_Porzellan_oder_Keramik">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_breiigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.3.2</rdfs:comment>
-        <rdfs:label xml:lang="de">Giessen_von_Porzellan_oder_Keramik</rdfs:label>
-        <rdfs:label xml:lang="en">Porcelain_or_ceramics_casting</rdfs:label>
+        <rdfs:label xml:lang="de">Giessen von Porzellan oder Keramik</rdfs:label>
+        <rdfs:label xml:lang="en">Porcelain or ceramics casting</rdfs:label>
     </owl:Class>
     
 
@@ -945,7 +945,7 @@ DIN 8583-4</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Spanen_mit_geometrisch_unbestimmten_Schneiden"/>
         <rdfs:comment>Untergruppe 3.3.7
 DIN 8589-17</rdfs:comment>
-        <rdfs:label xml:lang="en">Barrel_polishing</rdfs:label>
+        <rdfs:label xml:lang="en">Barrel polishing</rdfs:label>
         <rdfs:label xml:lang="de">Gleitspanen</rdfs:label>
     </owl:Class>
     
@@ -978,8 +978,8 @@ DIN 8589-17</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Heissisostatisches_Nachverdichten">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Thermomechanisches_Behandeln"/>
         <rdfs:comment>Untergruppe 6.3.2</rdfs:comment>
-        <rdfs:label xml:lang="de">Heissisostatisches_Nachverdichten</rdfs:label>
-        <rdfs:label xml:lang="en">Hot_isiostatic_sealing</rdfs:label>
+        <rdfs:label xml:lang="de">Heissisostatisches Nachverdichten</rdfs:label>
+        <rdfs:label xml:lang="en">Hot isiostatic sealing</rdfs:label>
     </owl:Class>
     
 
@@ -989,8 +989,8 @@ DIN 8589-17</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Herstellung_von_Faserplatten">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_span-_oder_faserfoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.5.2</rdfs:comment>
-        <rdfs:label xml:lang="en">Fibre_plate_manufacturing</rdfs:label>
-        <rdfs:label xml:lang="de">Herstellung_von_Faserplatten</rdfs:label>
+        <rdfs:label xml:lang="en">Fibre plate manufacturing</rdfs:label>
+        <rdfs:label xml:lang="de">Herstellung von Faserplatten</rdfs:label>
     </owl:Class>
     
 
@@ -1000,8 +1000,8 @@ DIN 8589-17</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Herstellung_von_Papier_und_Pappe">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_span-_oder_faserfoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.5.3</rdfs:comment>
-        <rdfs:label xml:lang="de">Herstellung_von_Papier_und_Pappe</rdfs:label>
-        <rdfs:label xml:lang="en">Paper_and_carboard_manufacturing</rdfs:label>
+        <rdfs:label xml:lang="de">Herstellung von Papier und Pappe</rdfs:label>
+        <rdfs:label xml:lang="en">Paper and carboard manufacturing</rdfs:label>
     </owl:Class>
     
 
@@ -1011,8 +1011,8 @@ DIN 8589-17</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Herstellung_von_Spanplatten">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_span-_oder_faserfoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.5.1</rdfs:comment>
-        <rdfs:label xml:lang="de">Herstellung_von_Spanplatten</rdfs:label>
-        <rdfs:label xml:lang="en">Particle_board_manufacturing</rdfs:label>
+        <rdfs:label xml:lang="de">Herstellung von Spanplatten</rdfs:label>
+        <rdfs:label xml:lang="en">Particle board manufacturing</rdfs:label>
     </owl:Class>
     
 
@@ -1023,8 +1023,8 @@ DIN 8589-17</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Spanen_mit_geometrisch_bestimmten_Schneiden"/>
         <rdfs:comment>Untergruppe 3.2.4
 DIN 8589-4</rdfs:comment>
-        <rdfs:label xml:lang="de">Hobeln_oder_Stossen</rdfs:label>
-        <rdfs:label xml:lang="en">Planing_or_shaping</rdfs:label>
+        <rdfs:label xml:lang="de">Hobeln oder Stossen</rdfs:label>
+        <rdfs:label xml:lang="en">Planing or shaping</rdfs:label>
     </owl:Class>
     
 
@@ -1047,7 +1047,7 @@ DIN 8589-14</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Spanen_mit_geometrisch_unbestimmten_Schneiden"/>
         <rdfs:comment>Untergruppe 3.3.3
 DIN 8589-13</rdfs:comment>
-        <rdfs:label xml:lang="en">Honing_by_linear_cutting_motion</rdfs:label>
+        <rdfs:label xml:lang="en">Honing by linear cutting motion</rdfs:label>
         <rdfs:label xml:lang="de">Hubschleifen</rdfs:label>
     </owl:Class>
     
@@ -1060,7 +1060,7 @@ DIN 8589-13</rdfs:comment>
         <rdfs:comment>Untergruppe 4.1.3
 DIN 8593-1</rdfs:comment>
         <rdfs:label xml:lang="de">Ineinanderschieben</rdfs:label>
-        <rdfs:label xml:lang="en">Joining_by_lateral_sliding</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by lateral sliding</rdfs:label>
     </owl:Class>
     
 
@@ -1071,7 +1071,7 @@ DIN 8593-1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zugdruckumformen"/>
         <rdfs:comment>Untergruppe 2.2.6
 DIN 8584-7</rdfs:comment>
-        <rdfs:label xml:lang="en">Hydroforming_widening</rdfs:label>
+        <rdfs:label xml:lang="en">Hydroforming widening</rdfs:label>
         <rdfs:label xml:lang="de">Innenhochdruck-Weitstauchen</rdfs:label>
     </owl:Class>
     
@@ -1082,8 +1082,8 @@ DIN 8584-7</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Isothermisches_Umwandeln">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Waermebehandeln"/>
         <rdfs:comment>Untergruppe 6.2.3</rdfs:comment>
-        <rdfs:label xml:lang="en">Isothermal_conversion</rdfs:label>
-        <rdfs:label xml:lang="de">Isothermisches_Umwandeln</rdfs:label>
+        <rdfs:label xml:lang="en">Isothermal conversion</rdfs:label>
+        <rdfs:label xml:lang="de">Isothermisches Umwandeln</rdfs:label>
     </owl:Class>
     
 
@@ -1093,7 +1093,7 @@ DIN 8584-7</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Kalandrieren">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_plastischen_Zustand"/>
         <rdfs:comment>Untergruppe 1.2.6</rdfs:comment>
-        <rdfs:label xml:lang="en">Bowl_glazing</rdfs:label>
+        <rdfs:label xml:lang="en">Bowl glazing</rdfs:label>
         <rdfs:label xml:lang="de">Kalandrieren</rdfs:label>
     </owl:Class>
     
@@ -1129,7 +1129,7 @@ DIN 8593-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen"/>
         <rdfs:comment>Gruppe 4.8
 DIN 8593-8</rdfs:comment>
-        <rdfs:label xml:lang="en">Adhesive_bonding</rdfs:label>
+        <rdfs:label xml:lang="en">Adhesive bonding</rdfs:label>
         <rdfs:label xml:lang="de">Kleben</rdfs:label>
     </owl:Class>
     
@@ -1143,8 +1143,8 @@ DIN 8593-8</rdfs:comment>
         <rdfs:comment>Untergruppe 4.8.2
 DIN 8593-8
 Reaktionsklebstoffe</rdfs:comment>
-        <rdfs:label xml:lang="en">Bonding_with_chemically_reactive_adhesives</rdfs:label>
-        <rdfs:label xml:lang="de">Kleben_mit_chemisch_abbindenden_Klebstoffen</rdfs:label>
+        <rdfs:label xml:lang="en">Bonding with chemically reactive adhesives</rdfs:label>
+        <rdfs:label xml:lang="de">Kleben mit chemisch abbindenden Klebstoffen</rdfs:label>
     </owl:Class>
     
 
@@ -1155,8 +1155,8 @@ Reaktionsklebstoffe</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Kleben"/>
         <rdfs:comment>Untergruppe 4.8.1
 DIN 8593-8</rdfs:comment>
-        <rdfs:label xml:lang="en">Bonding_with_physically_reactive_adhesives</rdfs:label>
-        <rdfs:label xml:lang="de">Kleben_mit_physikalisch_abbindenden_Klebstoffen</rdfs:label>
+        <rdfs:label xml:lang="en">Bonding with physically reactive adhesives</rdfs:label>
+        <rdfs:label xml:lang="de">Kleben mit physikalisch abbindenden Klebstoffen</rdfs:label>
     </owl:Class>
     
 
@@ -1180,7 +1180,7 @@ DIN 8593-3</rdfs:comment>
         <rdfs:comment>Untergruppe 2.2.5
 DIN 8584-6</rdfs:comment>
         <rdfs:label xml:lang="de">Knickbauchen</rdfs:label>
-        <rdfs:label xml:lang="en">Upset_bulging</rdfs:label>
+        <rdfs:label xml:lang="en">Upset bulging</rdfs:label>
     </owl:Class>
     
 
@@ -1191,7 +1191,7 @@ DIN 8584-6</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zugdruckumformen"/>
         <rdfs:comment>Untergruppe 2.2.4
 DIN 8584-5</rdfs:comment>
-        <rdfs:label xml:lang="en">Forming_by_raising</rdfs:label>
+        <rdfs:label xml:lang="en">Forming by raising</rdfs:label>
         <rdfs:label xml:lang="de">Kragenziehen</rdfs:label>
     </owl:Class>
     
@@ -1204,7 +1204,7 @@ DIN 8584-5</rdfs:comment>
         <rdfs:comment>Untergruppe 2.3.1
 DIN 8585-2</rdfs:comment>
         <rdfs:label xml:lang="de">Laengen</rdfs:label>
-        <rdfs:label xml:lang="en">Stretch_reducing</rdfs:label>
+        <rdfs:label xml:lang="en">Stretch reducing</rdfs:label>
     </owl:Class>
     
 
@@ -1228,7 +1228,7 @@ DIN 8589-15</rdfs:comment>
         <rdfs:comment>Untergruppe 3.6.4
 DIN 8592</rdfs:comment>
         <rdfs:label xml:lang="de">Loesemittelreinigen</rdfs:label>
-        <rdfs:label xml:lang="en">Solvant_cleaning</rdfs:label>
+        <rdfs:label xml:lang="en">Solvant cleaning</rdfs:label>
     </owl:Class>
     
 
@@ -1239,8 +1239,8 @@ DIN 8592</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zerlegen"/>
         <rdfs:comment>Untergruppe 3.5.3
 DIN 8591</rdfs:comment>
-        <rdfs:label xml:lang="de">Loesen_kraftschluessiger_Verbindungen</rdfs:label>
-        <rdfs:label xml:lang="en">Loosening_clearance_fit_joints</rdfs:label>
+        <rdfs:label xml:lang="de">Loesen kraftschluessiger Verbindungen</rdfs:label>
+        <rdfs:label xml:lang="en">Loosening clearance fit joints</rdfs:label>
     </owl:Class>
     
 
@@ -1251,8 +1251,8 @@ DIN 8591</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zerlegen"/>
         <rdfs:comment>Untergruppe 3.5.8
 DIN 8591</rdfs:comment>
-        <rdfs:label xml:lang="de">Loesen_von_Klebeverbindungen</rdfs:label>
-        <rdfs:label xml:lang="en">Loosening_bonded_joints</rdfs:label>
+        <rdfs:label xml:lang="de">Loesen von Klebeverbindungen</rdfs:label>
+        <rdfs:label xml:lang="en">Loosening bonded joints</rdfs:label>
     </owl:Class>
     
 
@@ -1274,8 +1274,8 @@ DIN 8591</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Reinigen"/>
         <rdfs:comment>Untergruppe 3.6.2
 DIN 8592</rdfs:comment>
-        <rdfs:label xml:lang="en">Mechanical_cleaning</rdfs:label>
-        <rdfs:label xml:lang="de">Mechanisches_Reinigen</rdfs:label>
+        <rdfs:label xml:lang="en">Mechanical cleaning</rdfs:label>
+        <rdfs:label xml:lang="de">Mechanisches Reinigen</rdfs:label>
     </owl:Class>
     
 
@@ -1286,7 +1286,7 @@ DIN 8592</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zerteilen"/>
         <rdfs:comment>Untergruppe 3.1.2
 DIN 8588</rdfs:comment>
-        <rdfs:label xml:lang="en">Cutting_with_a_single_balde</rdfs:label>
+        <rdfs:label xml:lang="en">Cutting with a single balde</rdfs:label>
         <rdfs:label xml:lang="de">Messerschneiden</rdfs:label>
     </owl:Class>
     
@@ -1309,8 +1309,8 @@ DIN 8588</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#An-_und_Einpressen"/>
         <rdfs:comment>Untergruppe 4.3.5
 DIN 8593-3</rdfs:comment>
-        <rdfs:label xml:lang="de">Nageln_oder_Verstiften_oder_Einschlagen</rdfs:label>
-        <rdfs:label xml:lang="en">Nailing_or_pinning_or_driving_in</rdfs:label>
+        <rdfs:label xml:lang="de">Nageln oder Verstiften oder Einschlagen</rdfs:label>
+        <rdfs:label xml:lang="en">Nailing or pinning or driving in</rdfs:label>
     </owl:Class>
     
 
@@ -1320,7 +1320,7 @@ DIN 8593-3</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Niederdruckgiessen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.1.3</rdfs:comment>
-        <rdfs:label xml:lang="en">Low-pressure_molding</rdfs:label>
+        <rdfs:label xml:lang="en">Low-pressure molding</rdfs:label>
         <rdfs:label xml:lang="de">Niederdruckgiessen</rdfs:label>
     </owl:Class>
     
@@ -1332,7 +1332,7 @@ DIN 8593-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Druckumformen"/>
         <rdfs:comment>Untergruppe 2.1.7
 DIN 8200</rdfs:comment>
-        <rdfs:label xml:lang="en">Blast_surfacing</rdfs:label>
+        <rdfs:label xml:lang="en">Blast surfacing</rdfs:label>
         <rdfs:label xml:lang="de">Oberflaechenveredelungsstrahlen</rdfs:label>
     </owl:Class>
     
@@ -1343,8 +1343,8 @@ DIN 8200</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Photochemische_Verfahren">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Stoffeigenschaft_aendern"/>
         <rdfs:comment>Gruppe 6.7</rdfs:comment>
-        <rdfs:label xml:lang="en">Photochemical_methods</rdfs:label>
-        <rdfs:label xml:lang="de">Photochemische_Verfahren</rdfs:label>
+        <rdfs:label xml:lang="en">Photochemical methods</rdfs:label>
+        <rdfs:label xml:lang="de">Photochemische Verfahren</rdfs:label>
     </owl:Class>
     
 
@@ -1354,7 +1354,7 @@ DIN 8200</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Pressen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_koernigen_oder_pulverfoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.4.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Compression_molding</rdfs:label>
+        <rdfs:label xml:lang="en">Compression molding</rdfs:label>
         <rdfs:label xml:lang="de">Pressen</rdfs:label>
     </owl:Class>
     
@@ -1378,7 +1378,7 @@ DIN 8200</rdfs:comment>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Schmelzverbindungsschweissen"/>
         <rdfs:comment>Untergruppe 4.6.1
 DIN 8593-6</rdfs:comment>
-        <rdfs:label xml:lang="en">Joint_pressure_welding</rdfs:label>
+        <rdfs:label xml:lang="en">Joint pressure welding</rdfs:label>
         <rdfs:label xml:lang="de">Pressverbindungsschweissen</rdfs:label>
     </owl:Class>
     
@@ -1389,8 +1389,8 @@ DIN 8593-6</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Putzen_oder_Verputzen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_breiigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.3.1</rdfs:comment>
-        <rdfs:label xml:lang="de">Putzen_oder_Verputzen</rdfs:label>
-        <rdfs:label xml:lang="en">Scouring_or_rough_casting</rdfs:label>
+        <rdfs:label xml:lang="de">Putzen oder Verputzen</rdfs:label>
+        <rdfs:label xml:lang="en">Scouring or rough casting</rdfs:label>
     </owl:Class>
     
 
@@ -1460,7 +1460,7 @@ DIN 8589-6</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Sandformen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_koernigen_oder_pulverfoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.4.2</rdfs:comment>
-        <rdfs:label xml:lang="en">Sand_molding</rdfs:label>
+        <rdfs:label xml:lang="en">Sand molding</rdfs:label>
         <rdfs:label xml:lang="de">Sandformen</rdfs:label>
     </owl:Class>
     
@@ -1472,8 +1472,8 @@ DIN 8589-6</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Spanen_mit_geometrisch_bestimmten_Schneiden"/>
         <rdfs:comment>Untergruppe 3.2.9
 DIN 8589-9</rdfs:comment>
-        <rdfs:label xml:lang="de">Schaben_oder_Meisseln</rdfs:label>
-        <rdfs:label xml:lang="en">Scraping_or_chiseling</rdfs:label>
+        <rdfs:label xml:lang="de">Schaben oder Meisseln</rdfs:label>
+        <rdfs:label xml:lang="en">Scraping or chiseling</rdfs:label>
     </owl:Class>
     
 
@@ -1496,7 +1496,7 @@ DIN 8589-9</rdfs:comment>
         <rdfs:comment>Untergruppe 3.1.1
 DIN 8588</rdfs:comment>
         <rdfs:label xml:lang="de">Scherschneiden</rdfs:label>
-        <rdfs:label xml:lang="en">Shear_cutting</rdfs:label>
+        <rdfs:label xml:lang="en">Shear cutting</rdfs:label>
     </owl:Class>
     
 
@@ -1507,8 +1507,8 @@ DIN 8588</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Spanen_mit_geometrisch_unbestimmten_Schneiden"/>
         <rdfs:comment>Untergruppe 3.3.1
 DIN 8589-11</rdfs:comment>
-        <rdfs:label xml:lang="en">Grinding_by_means_of_a_rotating_tool</rdfs:label>
-        <rdfs:label xml:lang="de">Schleifen_mit_rotierendem_Werkzeug</rdfs:label>
+        <rdfs:label xml:lang="en">Grinding by means of a rotating tool</rdfs:label>
+        <rdfs:label xml:lang="de">Schleifen mit rotierendem Werkzeug</rdfs:label>
     </owl:Class>
     
 
@@ -1518,7 +1518,7 @@ DIN 8589-11</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Schleudergiessen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.1.4</rdfs:comment>
-        <rdfs:label xml:lang="en">Centrifugal_casting</rdfs:label>
+        <rdfs:label xml:lang="en">Centrifugal casting</rdfs:label>
         <rdfs:label xml:lang="de">Schleudergiessen</rdfs:label>
     </owl:Class>
     
@@ -1529,7 +1529,7 @@ DIN 8589-11</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Schmelzauftragschweissen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_durch_Schweissen"/>
         <rdfs:comment>Untergruppe 5.6.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Fusion_build-up_welding</rdfs:label>
+        <rdfs:label xml:lang="en">Fusion build-up welding</rdfs:label>
         <rdfs:label xml:lang="de">Schmelzauftragschweissen</rdfs:label>
     </owl:Class>
     
@@ -1540,7 +1540,7 @@ DIN 8589-11</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Schmelztauchen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.1.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Hot_dipping</rdfs:label>
+        <rdfs:label xml:lang="en">Hot dipping</rdfs:label>
         <rdfs:label xml:lang="de">Schmelztauchen</rdfs:label>
     </owl:Class>
     
@@ -1552,7 +1552,7 @@ DIN 8589-11</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen_durch_Schweissen"/>
         <rdfs:comment>Untergruppe 4.6.2
 DIN 8593-6</rdfs:comment>
-        <rdfs:label xml:lang="en">Joint_fusion_welding</rdfs:label>
+        <rdfs:label xml:lang="en">Joint fusion welding</rdfs:label>
         <rdfs:label xml:lang="de">Schmelzverbindungsschweissen</rdfs:label>
     </owl:Class>
     
@@ -1576,7 +1576,7 @@ DIN 8593-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Umformen"/>
         <rdfs:comment>Gruppe 2.5
 DIN 8587</rdfs:comment>
-        <rdfs:label xml:lang="en">Forming_under_shearing_conditions</rdfs:label>
+        <rdfs:label xml:lang="en">Forming under shearing conditions</rdfs:label>
         <rdfs:label xml:lang="de">Schubumformen</rdfs:label>
     </owl:Class>
     
@@ -1587,7 +1587,7 @@ DIN 8587</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Schwerkraftgiessen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.1.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Gravity_die_casting</rdfs:label>
+        <rdfs:label xml:lang="en">Gravity die casting</rdfs:label>
         <rdfs:label xml:lang="de">Schwerkraftgiessen</rdfs:label>
     </owl:Class>
     
@@ -1598,8 +1598,8 @@ DIN 8587</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Sintern_oder_Brennen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Stoffeigenschaft_aendern"/>
         <rdfs:comment>Gruppe 6.4</rdfs:comment>
-        <rdfs:label xml:lang="en">Sintering_or_burning</rdfs:label>
-        <rdfs:label xml:lang="de">Sintern_oder_Brennen</rdfs:label>
+        <rdfs:label xml:lang="en">Sintering or burning</rdfs:label>
+        <rdfs:label xml:lang="de">Sintern oder Brennen</rdfs:label>
     </owl:Class>
     
 
@@ -1609,7 +1609,7 @@ DIN 8587</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Spachteln">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_plastischen_Zustand"/>
         <rdfs:comment>Untergruppe 5.2.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Applying_with_a_spatula</rdfs:label>
+        <rdfs:label xml:lang="en">Applying with a spatula</rdfs:label>
         <rdfs:label xml:lang="de">Spachteln</rdfs:label>
     </owl:Class>
     
@@ -1633,8 +1633,8 @@ DIN 8588</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Trennen"/>
         <rdfs:comment>Gruppe 3.2 
 DIN 8589-0</rdfs:comment>
-        <rdfs:label xml:lang="en">Machining_with_geometrically_defined_cutting_edges</rdfs:label>
-        <rdfs:label xml:lang="de">Spanen_mit_geometrisch_bestimmten_Schneiden</rdfs:label>
+        <rdfs:label xml:lang="en">Machining with geometrically defined cutting edges</rdfs:label>
+        <rdfs:label xml:lang="de">Spanen mit geometrisch bestimmten Schneiden</rdfs:label>
     </owl:Class>
     
 
@@ -1645,8 +1645,8 @@ DIN 8589-0</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Trennen"/>
         <rdfs:comment>Gruppe 3.3 
 DIN 8589-0</rdfs:comment>
-        <rdfs:label xml:lang="en">Machining_with_geometrically_undefined_cutting_edges</rdfs:label>
-        <rdfs:label xml:lang="de">Spanen_mit_geometrisch_unbestimmten_Schneiden</rdfs:label>
+        <rdfs:label xml:lang="en">Machining with geometrically undefined cutting edges</rdfs:label>
+        <rdfs:label xml:lang="de">Spanen mit geometrisch unbestimmten Schneiden</rdfs:label>
     </owl:Class>
     
 
@@ -1656,7 +1656,7 @@ DIN 8589-0</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Spritzgiessen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_plastischen_Zustand"/>
         <rdfs:comment>Untergruppe 1.2.2</rdfs:comment>
-        <rdfs:label xml:lang="en">Injection_molding</rdfs:label>
+        <rdfs:label xml:lang="en">Injection molding</rdfs:label>
         <rdfs:label xml:lang="de">Spritzgiessen</rdfs:label>
     </owl:Class>
     
@@ -1668,7 +1668,7 @@ DIN 8589-0</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_plastischen_Zustand"/>
         <rdfs:comment>Untergruppe 1.2.3</rdfs:comment>
         <rdfs:label xml:lang="de">Spritzpressen</rdfs:label>
-        <rdfs:label xml:lang="en">Transfer_molding</rdfs:label>
+        <rdfs:label xml:lang="en">Transfer molding</rdfs:label>
     </owl:Class>
     
 
@@ -1679,8 +1679,8 @@ DIN 8589-0</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fertigungsverfahren"/>
         <rdfs:comment>Hauptgruppe 6: Fertigen durch Veraendern der Eigenschaften des Werkstoffes, aus dem ein Werkstueck besteht; 
 dies geschieht u. a. durch Veraenderungen im submikroskopischen bzw. atomaren Bereich, z. B. durch Diffusion von Atomen, Erzeugung und Bewegung von Versetzungen im Atomgitter, chemische Reaktionen. Unvermeidbar auftretende Formaenderungen gehoeren nicht zum Wesen dieser Verfahren</rdfs:comment>
-        <rdfs:label xml:lang="en">Changing_material_properties</rdfs:label>
-        <rdfs:label xml:lang="de">Stoffeigenschaft_aendern</rdfs:label>
+        <rdfs:label xml:lang="en">Changing material properties</rdfs:label>
+        <rdfs:label xml:lang="de">Stoffeigenschaft aendern</rdfs:label>
     </owl:Class>
     
 
@@ -1691,7 +1691,7 @@ dies geschieht u. a. durch Veraenderungen im submikroskopischen bzw. atomaren Be
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Spanen_mit_geometrisch_unbestimmten_Schneiden"/>
         <rdfs:comment>Untergruppe 3.3.6
 DIN 8200</rdfs:comment>
-        <rdfs:label xml:lang="en">Blast_machining</rdfs:label>
+        <rdfs:label xml:lang="en">Blast machining</rdfs:label>
         <rdfs:label xml:lang="de">Strahlspanen</rdfs:label>
     </owl:Class>
     
@@ -1702,7 +1702,7 @@ DIN 8200</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Stranggiessen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.1.5</rdfs:comment>
-        <rdfs:label xml:lang="en">Continuous_casting</rdfs:label>
+        <rdfs:label xml:lang="en">Continuous casting</rdfs:label>
         <rdfs:label xml:lang="de">Stranggiessen</rdfs:label>
     </owl:Class>
     
@@ -1714,7 +1714,7 @@ DIN 8200</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_plastischen_Zustand"/>
         <rdfs:comment>Untergruppe 1.2.4
 Extrudieren</rdfs:comment>
-        <rdfs:label xml:lang="en">Rod_extrusion</rdfs:label>
+        <rdfs:label xml:lang="en">Rod extrusion</rdfs:label>
         <rdfs:label xml:lang="de">Strangpressen</rdfs:label>
     </owl:Class>
     
@@ -1726,8 +1726,8 @@ Extrudieren</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Reinigen"/>
         <rdfs:comment>Untergruppe 3.6.3
 DIN 8592</rdfs:comment>
-        <rdfs:label xml:lang="en">Fluidic_cleaning</rdfs:label>
-        <rdfs:label xml:lang="de">Stroemungstechnisches_Reinigen</rdfs:label>
+        <rdfs:label xml:lang="en">Fluidic cleaning</rdfs:label>
+        <rdfs:label xml:lang="de">Stroemungstechnisches Reinigen</rdfs:label>
     </owl:Class>
     
 
@@ -1737,7 +1737,7 @@ DIN 8592</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Tauchformen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.1.7</rdfs:comment>
-        <rdfs:label xml:lang="en">Dip_forming</rdfs:label>
+        <rdfs:label xml:lang="en">Dip forming</rdfs:label>
         <rdfs:label xml:lang="de">Tauchformen</rdfs:label>
     </owl:Class>
     
@@ -1748,8 +1748,8 @@ DIN 8592</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Textiles_Fuegen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen"/>
         <rdfs:comment>Gruppe 4.9</rdfs:comment>
-        <rdfs:label xml:lang="en">Textile_joining</rdfs:label>
-        <rdfs:label xml:lang="de">Textiles_Fuegen</rdfs:label>
+        <rdfs:label xml:lang="en">Textile joining</rdfs:label>
+        <rdfs:label xml:lang="de">Textiles Fuegen</rdfs:label>
     </owl:Class>
     
 
@@ -1760,8 +1760,8 @@ DIN 8592</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Abtragen"/>
         <rdfs:comment>Untergruppe 3.4.1
 DIN 8590</rdfs:comment>
-        <rdfs:label xml:lang="en">Thermal_removal</rdfs:label>
-        <rdfs:label xml:lang="de">Thermisches_Abtragen</rdfs:label>
+        <rdfs:label xml:lang="en">Thermal removal</rdfs:label>
+        <rdfs:label xml:lang="de">Thermisches Abtragen</rdfs:label>
     </owl:Class>
     
 
@@ -1772,8 +1772,8 @@ DIN 8590</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Reinigen"/>
         <rdfs:comment>Untergruppe 3.6.6
 DIN 8592</rdfs:comment>
-        <rdfs:label xml:lang="en">Thermal_cleaning</rdfs:label>
-        <rdfs:label xml:lang="de">Thermisches_Reinigen</rdfs:label>
+        <rdfs:label xml:lang="en">Thermal cleaning</rdfs:label>
+        <rdfs:label xml:lang="de">Thermisches Reinigen</rdfs:label>
     </owl:Class>
     
 
@@ -1783,8 +1783,8 @@ DIN 8592</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Thermochemisches_Behandeln">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Waermebehandeln"/>
         <rdfs:comment>Untergruppe 6.2.7</rdfs:comment>
-        <rdfs:label xml:lang="en">Thermal_handling</rdfs:label>
-        <rdfs:label xml:lang="de">Thermochemisches_Behandeln</rdfs:label>
+        <rdfs:label xml:lang="en">Thermal handling</rdfs:label>
+        <rdfs:label xml:lang="de">Thermochemisches Behandeln</rdfs:label>
     </owl:Class>
     
 
@@ -1794,8 +1794,8 @@ DIN 8592</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Thermomechanisches_Behandeln">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Stoffeigenschaft_aendern"/>
         <rdfs:comment>Gruppe 6.3</rdfs:comment>
-        <rdfs:label xml:lang="en">Thermomechanical_handling</rdfs:label>
-        <rdfs:label xml:lang="de">Thermomechanisches_Behandeln</rdfs:label>
+        <rdfs:label xml:lang="en">Thermomechanical handling</rdfs:label>
+        <rdfs:label xml:lang="de">Thermomechanisches Behandeln</rdfs:label>
     </owl:Class>
     
 
@@ -1817,7 +1817,7 @@ DIN 8585-4</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Tiefkuehlen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Waermebehandeln"/>
         <rdfs:comment>Untergruppe 6.2.6</rdfs:comment>
-        <rdfs:label xml:lang="en">Cold_treating</rdfs:label>
+        <rdfs:label xml:lang="en">Cold treating</rdfs:label>
         <rdfs:label xml:lang="de">Tiefkuehlen</rdfs:label>
     </owl:Class>
     
@@ -1842,7 +1842,7 @@ DIN 8584-3</rdfs:comment>
         <rdfs:comment>Untergruppe 4.2.2
 DIN 8593-2</rdfs:comment>
         <rdfs:label xml:lang="en">Impregnating</rdfs:label>
-        <rdfs:label xml:lang="de">Traenken_oder_Impraegnieren</rdfs:label>
+        <rdfs:label xml:lang="de">Traenken oder Impraegnieren</rdfs:label>
     </owl:Class>
     
 
@@ -1877,7 +1877,7 @@ DIN 8582</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Druckumformen"/>
         <rdfs:comment>Untergruppe 2.1.6
 DIN 8200</rdfs:comment>
-        <rdfs:label xml:lang="en">Blast_forming</rdfs:label>
+        <rdfs:label xml:lang="en">Blast forming</rdfs:label>
         <rdfs:label xml:lang="de">Umformstrahlen</rdfs:label>
     </owl:Class>
     
@@ -1901,7 +1901,7 @@ DIN 8593-4</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fertigungsverfahren"/>
         <rdfs:comment>Hauptgruppe 1: Fertigen eines festen Koerpers aus formlosem Stoff durch Schaffen des Zusammenhaltes; 
 hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung</rdfs:comment>
-        <rdfs:label xml:lang="en">Primary_forming</rdfs:label>
+        <rdfs:label xml:lang="en">Primary forming</rdfs:label>
         <rdfs:label xml:lang="de">Urformen</rdfs:label>
     </owl:Class>
     
@@ -1912,8 +1912,8 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_breiigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.3</rdfs:comment>
-        <rdfs:label xml:lang="en">Creative_forming_from_from_the_pulpy_state</rdfs:label>
-        <rdfs:label xml:lang="de">Urformen_aus_dem_breiigen_Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Creative forming from from the pulpy state</rdfs:label>
+        <rdfs:label xml:lang="de">Urformen aus dem breiigen Zustand</rdfs:label>
     </owl:Class>
     
 
@@ -1923,8 +1923,8 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Creative_forming_from_the_liquid_state</rdfs:label>
-        <rdfs:label xml:lang="de">Urformen_aus_dem_fluessigen_Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Creative forming from the liquid state</rdfs:label>
+        <rdfs:label xml:lang="de">Urformen aus dem fluessigen Zustand</rdfs:label>
     </owl:Class>
     
 
@@ -1934,8 +1934,8 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_gas-_oder_dampffoermigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.8</rdfs:comment>
-        <rdfs:label xml:lang="en">Primary_forming_from_gaseous_or_vapour_state</rdfs:label>
-        <rdfs:label xml:lang="de">Urformen_aus_dem_gas-_oder_dampffoermigen_Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Primary forming from gaseous or vapour state</rdfs:label>
+        <rdfs:label xml:lang="de">Urformen aus dem gas- oder dampffoermigen Zustand</rdfs:label>
     </owl:Class>
     
 
@@ -1945,8 +1945,8 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_ionisierten_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.9</rdfs:comment>
-        <rdfs:label xml:lang="en">Primary_forming_from_the_ionized_sate</rdfs:label>
-        <rdfs:label xml:lang="de">Urformen_aus_dem_ionisierten_Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Primary forming from the ionized sate</rdfs:label>
+        <rdfs:label xml:lang="de">Urformen aus dem ionisierten Zustand</rdfs:label>
     </owl:Class>
     
 
@@ -1956,8 +1956,8 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_koernigen_oder_pulverfoermigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.4</rdfs:comment>
-        <rdfs:label xml:lang="en">Primary_forming_from_the_granulare_or_the_powdery_state</rdfs:label>
-        <rdfs:label xml:lang="de">Urformen_aus_dem_koernigen_oder_pulverfoermigen_Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Primary forming from the granulare or the powdery state</rdfs:label>
+        <rdfs:label xml:lang="de">Urformen aus dem koernigen oder pulverfoermigen Zustand</rdfs:label>
     </owl:Class>
     
 
@@ -1967,8 +1967,8 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_plastischen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.2</rdfs:comment>
-        <rdfs:label xml:lang="en">Creative_forming_from_the_plastic_state</rdfs:label>
-        <rdfs:label xml:lang="de">Urformen_aus_dem_plastischen_Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Creative forming from the plastic state</rdfs:label>
+        <rdfs:label xml:lang="de">Urformen aus dem plastischen Zustand</rdfs:label>
     </owl:Class>
     
 
@@ -1978,8 +1978,8 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_span-_oder_faserfoermigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.5</rdfs:comment>
-        <rdfs:label xml:lang="en">Creative_forming_from_chips_of_from_a_fibrous_state</rdfs:label>
-        <rdfs:label xml:lang="de">Urformen_aus_dem_span-_oder_faserfoermigen_Zustand</rdfs:label>
+        <rdfs:label xml:lang="en">Creative forming from chips of from a fibrous state</rdfs:label>
+        <rdfs:label xml:lang="de">Urformen aus dem span- oder faserfoermigen Zustand</rdfs:label>
     </owl:Class>
     
 
@@ -1989,8 +1989,8 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_durch_thermisches_Spritzen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_koernigen_oder_pulverfoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.4.3</rdfs:comment>
-        <rdfs:label xml:lang="en">Primary_forming_by_means_of_thermal_spray</rdfs:label>
-        <rdfs:label xml:lang="de">Urformen_durch_thermisches_Spritzen</rdfs:label>
+        <rdfs:label xml:lang="en">Primary forming by means of thermal spray</rdfs:label>
+        <rdfs:label xml:lang="de">Urformen durch thermisches Spritzen</rdfs:label>
     </owl:Class>
     
 
@@ -2001,8 +2001,8 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.1.8
 Niederdruckverfahren</rdfs:comment>
-        <rdfs:label xml:lang="en">Primary_forming_of_fibre_reinforced_plastics</rdfs:label>
-        <rdfs:label xml:lang="de">Urformen_von_faserverstaerkten_Kunststoffen</rdfs:label>
+        <rdfs:label xml:lang="en">Primary forming of fibre reinforced plastics</rdfs:label>
+        <rdfs:label xml:lang="de">Urformen von faserverstaerkten Kunststoffen</rdfs:label>
     </owl:Class>
     
 
@@ -2014,7 +2014,7 @@ Niederdruckverfahren</rdfs:comment>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Vakuumbestaeuben"/>
         <rdfs:comment>Untergruppe 5.8.1</rdfs:comment>
         <rdfs:label xml:lang="de">Vakuumbedampfen</rdfs:label>
-        <rdfs:label xml:lang="en">Vapor_phase_processing</rdfs:label>
+        <rdfs:label xml:lang="en">Vapor phase processing</rdfs:label>
     </owl:Class>
     
 
@@ -2024,7 +2024,7 @@ Niederdruckverfahren</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Vakuumbestaeuben">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_gas-_oder_dampffoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.8.2</rdfs:comment>
-        <rdfs:label xml:lang="en">Vacuum_dusting</rdfs:label>
+        <rdfs:label xml:lang="en">Vacuum dusting</rdfs:label>
         <rdfs:label xml:lang="de">Vakuumbestaeuben</rdfs:label>
     </owl:Class>
     
@@ -2037,7 +2037,7 @@ Niederdruckverfahren</rdfs:comment>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Verbindungsweichloeten"/>
         <rdfs:comment>Untergruppe 4.7.2
 DIN 8505-3</rdfs:comment>
-        <rdfs:label xml:lang="en">Joining_by_brazing</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by brazing</rdfs:label>
         <rdfs:label xml:lang="de">Verbindungshartloeten</rdfs:label>
     </owl:Class>
     
@@ -2049,7 +2049,7 @@ DIN 8505-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen_durch_Loeten"/>
         <rdfs:comment>Untergruppe 4.7.1
 DIN 8505-3</rdfs:comment>
-        <rdfs:label xml:lang="en">Joining_by_soldering</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by soldering</rdfs:label>
         <rdfs:label xml:lang="de">Verbindungsweichloeten</rdfs:label>
     </owl:Class>
     
@@ -2060,8 +2060,8 @@ DIN 8505-3</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Verfestigen_durch_Schmieden">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Verfestigen_durch_Umformen"/>
         <rdfs:comment>Untergruppe 6.1.4</rdfs:comment>
-        <rdfs:label xml:lang="en">Hardening_by_forging</rdfs:label>
-        <rdfs:label xml:lang="de">Verfestigen_durch_Schmieden</rdfs:label>
+        <rdfs:label xml:lang="en">Hardening by forging</rdfs:label>
+        <rdfs:label xml:lang="de">Verfestigen durch Schmieden</rdfs:label>
     </owl:Class>
     
 
@@ -2071,8 +2071,8 @@ DIN 8505-3</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Verfestigen_durch_Umformen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Stoffeigenschaft_aendern"/>
         <rdfs:comment>Gruppe 6.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Hardening_by_forming</rdfs:label>
-        <rdfs:label xml:lang="de">Verfestigen_durch_Umformen</rdfs:label>
+        <rdfs:label xml:lang="en">Hardening by forming</rdfs:label>
+        <rdfs:label xml:lang="de">Verfestigen durch Umformen</rdfs:label>
     </owl:Class>
     
 
@@ -2082,8 +2082,8 @@ DIN 8505-3</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Verfestigen_durch_Walzen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Verfestigen_durch_Umformen"/>
         <rdfs:comment>Untergruppe 6.1.2</rdfs:comment>
-        <rdfs:label xml:lang="en">Hardening_by_rolling</rdfs:label>
-        <rdfs:label xml:lang="de">Verfestigen_durch_Walzen</rdfs:label>
+        <rdfs:label xml:lang="en">Hardening by rolling</rdfs:label>
+        <rdfs:label xml:lang="de">Verfestigen durch Walzen</rdfs:label>
     </owl:Class>
     
 
@@ -2093,8 +2093,8 @@ DIN 8505-3</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Verfestigen_durch_Ziehen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Verfestigen_durch_Umformen"/>
         <rdfs:comment>Untergruppe 6.1.3</rdfs:comment>
-        <rdfs:label xml:lang="en">Hardening_by_drawing</rdfs:label>
-        <rdfs:label xml:lang="de">Verfestigen_durch_Ziehen</rdfs:label>
+        <rdfs:label xml:lang="en">Hardening by drawing</rdfs:label>
+        <rdfs:label xml:lang="de">Verfestigen durch Ziehen</rdfs:label>
     </owl:Class>
     
 
@@ -2128,7 +2128,7 @@ DIN 8593-4</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Vergueten">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Waermebehandeln"/>
         <rdfs:comment>Untergruppe 6.2.5</rdfs:comment>
-        <rdfs:label xml:lang="en">Quenching_and_hardening</rdfs:label>
+        <rdfs:label xml:lang="en">Quenching and hardening</rdfs:label>
         <rdfs:label xml:lang="de">Vergueten</rdfs:label>
     </owl:Class>
     
@@ -2153,8 +2153,8 @@ DIN 8593-3</rdfs:comment>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Verschieben_mit_geradliniger_Werkzeugbewegung"/>
         <rdfs:comment>Untergruppe 2.5.2
 DIN 8587</rdfs:comment>
-        <rdfs:label xml:lang="en">Shifting_by_means_of_a_tool_with_rotating_movement</rdfs:label>
-        <rdfs:label xml:lang="de">Verschieben_mit_drehender_Werkzeugbewegung</rdfs:label>
+        <rdfs:label xml:lang="en">Shifting by means of a tool with rotating movement</rdfs:label>
+        <rdfs:label xml:lang="de">Verschieben mit drehender Werkzeugbewegung</rdfs:label>
     </owl:Class>
     
 
@@ -2165,8 +2165,8 @@ DIN 8587</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Schubumformen"/>
         <rdfs:comment>Untergruppe 2.5.1
 DIN 8587</rdfs:comment>
-        <rdfs:label xml:lang="en">Shifting_by_means_of_a_tool_with_rectilinear_movement</rdfs:label>
-        <rdfs:label xml:lang="de">Verschieben_mit_geradliniger_Werkzeugbewegung</rdfs:label>
+        <rdfs:label xml:lang="en">Shifting by means of a tool with rectilinear movement</rdfs:label>
+        <rdfs:label xml:lang="de">Verschieben mit geradliniger Werkzeugbewegung</rdfs:label>
     </owl:Class>
     
 
@@ -2189,7 +2189,7 @@ DIN 8593-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Stoffeigenschaft_aendern"/>
         <rdfs:comment>Gruppe 6.2
 DIN EN 10052</rdfs:comment>
-        <rdfs:label xml:lang="en">Heat_treating</rdfs:label>
+        <rdfs:label xml:lang="en">Heat treating</rdfs:label>
         <rdfs:label xml:lang="de">Waermebehandeln</rdfs:label>
     </owl:Class>
     
@@ -2224,7 +2224,7 @@ DIN 8585-3</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Wirbelsintern">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_koernigen_oder_pulverfoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.4.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Whirl_sintering</rdfs:label>
+        <rdfs:label xml:lang="en">Whirl sintering</rdfs:label>
         <rdfs:label xml:lang="de">Wirbelsintern</rdfs:label>
     </owl:Class>
     
@@ -2248,8 +2248,8 @@ DIN 8591</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zerlegen"/>
         <rdfs:comment>Untergruppe 3.5.9
 DIN 8591</rdfs:comment>
-        <rdfs:label xml:lang="en">Textile_junction_disassembly</rdfs:label>
-        <rdfs:label xml:lang="de">Zerlegen_textiler_Verbindungen</rdfs:label>
+        <rdfs:label xml:lang="en">Textile junction disassembly</rdfs:label>
+        <rdfs:label xml:lang="de">Zerlegen textiler Verbindungen</rdfs:label>
     </owl:Class>
     
 
@@ -2260,8 +2260,8 @@ DIN 8591</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zerlegen"/>
         <rdfs:comment>Untergruppe 3.5.5
 DIN 8591</rdfs:comment>
-        <rdfs:label xml:lang="en">Disassembling_parts_joined_by_bending</rdfs:label>
-        <rdfs:label xml:lang="de">Zerlegen_von_durch_Umformen_gefuegten_Teilen</rdfs:label>
+        <rdfs:label xml:lang="en">Disassembling parts joined by bending</rdfs:label>
+        <rdfs:label xml:lang="de">Zerlegen von durch Umformen gefuegten Teilen</rdfs:label>
     </owl:Class>
     
 
@@ -2272,8 +2272,8 @@ DIN 8591</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zerlegen"/>
         <rdfs:comment>Untergruppe 3.5.4
 DIN 8591</rdfs:comment>
-        <rdfs:label xml:lang="en">Disassembling_parts_joined_by_creative_forming</rdfs:label>
-        <rdfs:label xml:lang="de">Zerlegen_von_durch_Urformen_gefuegten_Teilen</rdfs:label>
+        <rdfs:label xml:lang="en">Disassembling parts joined by creative forming</rdfs:label>
+        <rdfs:label xml:lang="de">Zerlegen von durch Urformen gefuegten Teilen</rdfs:label>
     </owl:Class>
     
 
@@ -2306,8 +2306,8 @@ DIN 8588</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Zuechten_von_Kristallen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.1.9</rdfs:comment>
-        <rdfs:label xml:lang="en">Crystal_growing</rdfs:label>
-        <rdfs:label xml:lang="de">Zuechten_von_Kristallen</rdfs:label>
+        <rdfs:label xml:lang="en">Crystal growing</rdfs:label>
+        <rdfs:label xml:lang="de">Zuechten von Kristallen</rdfs:label>
     </owl:Class>
     
 
@@ -2318,7 +2318,7 @@ DIN 8588</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Umformen"/>
         <rdfs:comment>Gruppe 2.2
 DIN 8584-1</rdfs:comment>
-        <rdfs:label xml:lang="en">Forming_under_combination_of_tensile_and_compressive_conditions</rdfs:label>
+        <rdfs:label xml:lang="en">Forming under combination of tensile and compressive conditions</rdfs:label>
         <rdfs:label xml:lang="de">Zugdruckumformen</rdfs:label>
     </owl:Class>
     
@@ -2330,7 +2330,7 @@ DIN 8584-1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Umformen"/>
         <rdfs:comment>Gruppe 2.3
 DIN 8585-1</rdfs:comment>
-        <rdfs:label xml:lang="en">Forming_under_tensile_conditions</rdfs:label>
+        <rdfs:label xml:lang="en">Forming under tensile conditions</rdfs:label>
         <rdfs:label xml:lang="de">Zugumformen</rdfs:label>
     </owl:Class>
     
@@ -2342,7 +2342,7 @@ DIN 8585-1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen"/>
         <rdfs:comment>Gruppe 4.1
 DIN 8593-1</rdfs:comment>
-        <rdfs:label xml:lang="en">Assembling_</rdfs:label>
+        <rdfs:label xml:lang="en">Assembling </rdfs:label>
         <rdfs:label xml:lang="de">Zusammensetzen</rdfs:label>
     </owl:Class>
     
