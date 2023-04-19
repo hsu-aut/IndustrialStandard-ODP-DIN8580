@@ -88,7 +88,7 @@ DIN 8593-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.1.2</rdfs:comment>
         <rdfs:label xml:lang="de">Anstreichen oder Lackieren</rdfs:label>
-        <rdfs:label xml:lang="en">Painting or varnishing</rdfs:label>
+        <rdfs:label xml:lang="en">Painting or lacquering</rdfs:label>
     </owl:Class>
     
 
@@ -228,7 +228,7 @@ massgebend ist der unmittelbar vor dem Beschichten herrschende Zustand des Besch
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.3</rdfs:comment>
         <rdfs:label xml:lang="de">Beschichten aus dem breiigen Zustand</rdfs:label>
-        <rdfs:label xml:lang="en">Coating from the pulpy state</rdfs:label>
+        <rdfs:label xml:lang="en">Coating with a pasty material</rdfs:label>
     </owl:Class>
     
 
@@ -239,7 +239,7 @@ massgebend ist der unmittelbar vor dem Beschichten herrschende Zustand des Besch
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.1</rdfs:comment>
         <rdfs:label xml:lang="de">Beschichten aus dem fluessigen Zustand</rdfs:label>
-        <rdfs:label xml:lang="en">Coating from the liquid state</rdfs:label>
+        <rdfs:label xml:lang="en">Coating with a liquid material</rdfs:label>
     </owl:Class>
     
 
@@ -251,7 +251,7 @@ massgebend ist der unmittelbar vor dem Beschichten herrschende Zustand des Besch
         <rdfs:comment>Gruppe 5.8
 Vakuumbeschichten</rdfs:comment>
         <rdfs:label xml:lang="de">Beschichten aus dem gas- oder dampffoermigen Zustand</rdfs:label>
-        <rdfs:label xml:lang="en">Coating from the gaseous or vapour state</rdfs:label>
+        <rdfs:label xml:lang="en">Coating with a gaseous or vaporous material</rdfs:label>
     </owl:Class>
     
 
@@ -262,7 +262,7 @@ Vakuumbeschichten</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.9</rdfs:comment>
         <rdfs:label xml:lang="de">Beschichten aus dem ionisierten Zustand</rdfs:label>
-        <rdfs:label xml:lang="en">Coating from the ionized state</rdfs:label>
+        <rdfs:label xml:lang="en">Coating with an ionized material</rdfs:label>
     </owl:Class>
     
 
@@ -273,7 +273,7 @@ Vakuumbeschichten</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.4</rdfs:comment>
         <rdfs:label xml:lang="de">Beschichten aus dem koernigen oder pulverfoermigen Zustand</rdfs:label>
-        <rdfs:label xml:lang="en">Coating from the granular or powdery state</rdfs:label>
+        <rdfs:label xml:lang="en">Coating with a granular or powdery material</rdfs:label>
     </owl:Class>
     
 
@@ -284,7 +284,7 @@ Vakuumbeschichten</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten"/>
         <rdfs:comment>Gruppe 5.2</rdfs:comment>
         <rdfs:label xml:lang="de">Beschichten aus dem plastischen Zustand</rdfs:label>
-        <rdfs:label xml:lang="en">Coating from the plastic state</rdfs:label>
+        <rdfs:label xml:lang="en">Coating with a plastic material</rdfs:label>
     </owl:Class>
     
 
@@ -307,7 +307,7 @@ Vakuumbeschichten</rdfs:comment>
         <rdfs:comment>Gruppe 5.7
 Verzinken, Verzinnen u. ae. von Draehten, Blechen und Profilen ist dem Wesen nach ein Auftragloeten. Da jedoch die Benennung Loeten fuer diese Verfahren nicht ueblich ist, werden sie in der Untergruppe 5.1.1 und nicht in der Gruppe 5.7 aufgefuehrt.</rdfs:comment>
         <rdfs:label xml:lang="de">Beschichten durch Loeten</rdfs:label>
-        <rdfs:label xml:lang="en">Coating by welding</rdfs:label>
+        <rdfs:label xml:lang="en">Coating by soldering</rdfs:label>
     </owl:Class>
     
 
@@ -319,7 +319,7 @@ Verzinken, Verzinnen u. ae. von Draehten, Blechen und Profilen ist dem Wesen nac
         <rdfs:comment>Gruppe 5.6
 Beschichten durch Schweissen ist nur durch Schmelzschweissen moeglich.</rdfs:comment>
         <rdfs:label xml:lang="de">Beschichten durch Schweissen</rdfs:label>
-        <rdfs:label xml:lang="en">Weld coating</rdfs:label>
+        <rdfs:label xml:lang="en">Coating by welding</rdfs:label>
     </owl:Class>
     
 
@@ -342,7 +342,7 @@ DIN EN 657</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.1.7</rdfs:comment>
         <rdfs:label xml:lang="de">Beschriften</rdfs:label>
-        <rdfs:label xml:lang="en">Marking</rdfs:label>
+        <rdfs:label xml:lang="en">Labeling</rdfs:label>
     </owl:Class>
     
 
@@ -460,7 +460,7 @@ DIN 8590</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_ionisierten_Zustand"/>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Galvanisches_Beschichten"/>
         <rdfs:comment>Untergruppe 5.9.2</rdfs:comment>
-        <rdfs:label xml:lang="en">Chemical coating</rdfs:label>
+        <rdfs:label xml:lang="en">Chemical vapor deposition</rdfs:label>
         <rdfs:label xml:lang="de">Chemisches Beschichten</rdfs:label>
     </owl:Class>
     
@@ -685,7 +685,7 @@ DIN 8590</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.1.4</rdfs:comment>
         <rdfs:label xml:lang="de">Emaillieren oder Glasieren</rdfs:label>
-        <rdfs:label xml:lang="en">Enemalling or glazing</rdfs:label>
+        <rdfs:label xml:lang="en">Enamelling or glazing</rdfs:label>
     </owl:Class>
     
 
@@ -743,7 +743,7 @@ DIN 8589-7</rdfs:comment>
         <rdfs:comment>alle Verfahren zur Herstellung von geometrisch bestimmten festen Koerpern; 
 sie schliessen die Verfahren zur Gewinnung erster Formen aus dem formlosen Zustand, zur Veraenderung dieser Form sowie zur Veraenderung der Stoffeigenschaften ein</rdfs:comment>
         <rdfs:label xml:lang="de">Fertigungsverfahren</rdfs:label>
-        <rdfs:label xml:lang="en">Manufacturing processes</rdfs:label>
+        <rdfs:label xml:lang="en">Manufacturing process</rdfs:label>
     </owl:Class>
     
 
@@ -898,7 +898,7 @@ DIN 8593-2</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Galvanisches_Beschichten">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_ionisierten_Zustand"/>
         <rdfs:comment>Untergruppe 5.9.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Electrolytic coating</rdfs:label>
+        <rdfs:label xml:lang="en">Galvanic deposition</rdfs:label>
         <rdfs:label xml:lang="de">Galvanisches Beschichten</rdfs:label>
     </owl:Class>
     
@@ -1389,8 +1389,8 @@ DIN 8593-6</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Putzen_oder_Verputzen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_breiigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.3.1</rdfs:comment>
+        <rdfs:label xml:lang="en">Plastering</rdfs:label>
         <rdfs:label xml:lang="de">Putzen oder Verputzen</rdfs:label>
-        <rdfs:label xml:lang="en">Scouring or rough casting</rdfs:label>
     </owl:Class>
     
 
@@ -1540,7 +1540,7 @@ DIN 8589-11</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Schmelztauchen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.1.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Hot dipping</rdfs:label>
+        <rdfs:label xml:lang="en">Melt dipping</rdfs:label>
         <rdfs:label xml:lang="de">Schmelztauchen</rdfs:label>
     </owl:Class>
     
@@ -1609,7 +1609,7 @@ DIN 8587</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Spachteln">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_plastischen_Zustand"/>
         <rdfs:comment>Untergruppe 5.2.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Applying with a spatula</rdfs:label>
+        <rdfs:label xml:lang="en">Coating using a spatula</rdfs:label>
         <rdfs:label xml:lang="de">Spachteln</rdfs:label>
     </owl:Class>
     
@@ -2013,8 +2013,8 @@ Niederdruckverfahren</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_gas-_oder_dampffoermigen_Zustand"/>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Vakuumbestaeuben"/>
         <rdfs:comment>Untergruppe 5.8.1</rdfs:comment>
+        <rdfs:label xml:lang="en">Vacuum deposition</rdfs:label>
         <rdfs:label xml:lang="de">Vakuumbedampfen</rdfs:label>
-        <rdfs:label xml:lang="en">Vapor phase processing</rdfs:label>
     </owl:Class>
     
 
@@ -2024,7 +2024,7 @@ Niederdruckverfahren</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Vakuumbestaeuben">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Beschichten_aus_dem_gas-_oder_dampffoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 5.8.2</rdfs:comment>
-        <rdfs:label xml:lang="en">Vacuum dusting</rdfs:label>
+        <rdfs:label xml:lang="en">Vacuum sputtering</rdfs:label>
         <rdfs:label xml:lang="de">Vakuumbestaeuben</rdfs:label>
     </owl:Class>
     
