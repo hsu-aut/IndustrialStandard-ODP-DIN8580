@@ -147,7 +147,7 @@ DIN 8591</rdfs:comment>
         <rdfs:comment>Untergruppe 4.4.1
 DIN 8593-4</rdfs:comment>
         <rdfs:label xml:lang="de">Ausgiessen</rdfs:label>
-        <rdfs:label xml:lang="en">Remetalling</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by casting</rdfs:label>
     </owl:Class>
     
 
@@ -567,7 +567,7 @@ DIN 8584-2</rdfs:comment>
         <rdfs:comment>Untergruppe 4.4.2
 DIN 8593-4</rdfs:comment>
         <rdfs:label xml:lang="de">Einbetten</rdfs:label>
-        <rdfs:label xml:lang="en">Embedding</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by embedding</rdfs:label>
     </owl:Class>
     
 
@@ -592,7 +592,7 @@ DIN 8583-5</rdfs:comment>
         <rdfs:comment>Untergruppe 4.2.1
 DIN 8593-2</rdfs:comment>
         <rdfs:label xml:lang="de">Einfuellen</rdfs:label>
-        <rdfs:label xml:lang="en">Filling in</rdfs:label>
+        <rdfs:label xml:lang="en">Pouring</rdfs:label>
     </owl:Class>
     
 
@@ -604,7 +604,7 @@ DIN 8593-2</rdfs:comment>
         <rdfs:comment>Untergruppe 4.4.4
 DIN 8593-4</rdfs:comment>
         <rdfs:label xml:lang="de">Eingalvanisieren</rdfs:label>
-        <rdfs:label xml:lang="en">Galvanizing</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by galvanizing</rdfs:label>
     </owl:Class>
     
 
@@ -615,8 +615,8 @@ DIN 8593-4</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zusammensetzen"/>
         <rdfs:comment>Untergruppe 4.1.4
 DIN 8593-1</rdfs:comment>
-        <rdfs:label xml:lang="en">Attaching</rdfs:label>
         <rdfs:label xml:lang="de">Einhaengen</rdfs:label>
+        <rdfs:label xml:lang="en">Hanging</rdfs:label>
     </owl:Class>
     
 
@@ -628,7 +628,7 @@ DIN 8593-1</rdfs:comment>
         <rdfs:comment>Untergruppe 4.1.2
 DIN 8593-1</rdfs:comment>
         <rdfs:label xml:lang="de">Einlegen oder Einsetzen</rdfs:label>
-        <rdfs:label xml:lang="en">Fitting</rdfs:label>
+        <rdfs:label xml:lang="en">Inserting</rdfs:label>
     </owl:Class>
     
 
@@ -640,7 +640,7 @@ DIN 8593-1</rdfs:comment>
         <rdfs:comment>Untergruppe 4.1.5
 DIN 8593-1</rdfs:comment>
         <rdfs:label xml:lang="de">Einrenken</rdfs:label>
-        <rdfs:label xml:lang="en">Reseting</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by translatory and rotatory movement</rdfs:label>
     </owl:Class>
     
 
@@ -840,7 +840,7 @@ DIN 8593-6</rdfs:comment>
         <rdfs:comment>Gruppe 4.5
 DIN 8593-5</rdfs:comment>
         <rdfs:label xml:lang="de">Fuegen durch Umformen</rdfs:label>
-        <rdfs:label xml:lang="en">Joining by bending</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by forming</rdfs:label>
     </owl:Class>
     
 
@@ -852,7 +852,7 @@ DIN 8593-5</rdfs:comment>
         <rdfs:comment>Untergruppe 4.5.2
 DIN 8593-5</rdfs:comment>
         <rdfs:label xml:lang="de">Fuegen durch Umformen bei Blech- Rohr- und Profilteilen</rdfs:label>
-        <rdfs:label xml:lang="en">Joining_by_bending_of_sheet_metal/tubing/profiles</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by forming of metal/tubing/profiles</rdfs:label>
     </owl:Class>
     
 
@@ -864,7 +864,7 @@ DIN 8593-5</rdfs:comment>
         <rdfs:comment>Untergruppe 4.5.1
 DIN 8593-5</rdfs:comment>
         <rdfs:label xml:lang="de">Fuegen durch Umformen drahtfoermiger Koerper</rdfs:label>
-        <rdfs:label xml:lang="en">Joinng by bending wire-shaped elements</rdfs:label>
+        <rdfs:label xml:lang="en">Joinng by forming wire-shaped elements</rdfs:label>
     </owl:Class>
     
 
@@ -876,7 +876,7 @@ DIN 8593-5</rdfs:comment>
         <rdfs:comment>Gruppe 4.4
 DIN 8593-4</rdfs:comment>
         <rdfs:label xml:lang="de">Fuegen durch Urformen</rdfs:label>
-        <rdfs:label xml:lang="en">Joining by primary forming</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by molding</rdfs:label>
     </owl:Class>
     
 
@@ -1060,7 +1060,7 @@ DIN 8589-13</rdfs:comment>
         <rdfs:comment>Untergruppe 4.1.3
 DIN 8593-1</rdfs:comment>
         <rdfs:label xml:lang="de">Ineinanderschieben</rdfs:label>
-        <rdfs:label xml:lang="en">Joining by lateral sliding</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by inserting parts into each other</rdfs:label>
     </owl:Class>
     
 
@@ -1105,8 +1105,8 @@ DIN 8584-7</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen_durch_Urformen"/>
         <rdfs:comment>Untergruppe 4.4.6
 DIN 8593-4</rdfs:comment>
+        <rdfs:label xml:lang="en">Joining with putty</rdfs:label>
         <rdfs:label xml:lang="de">Kitten</rdfs:label>
-        <rdfs:label xml:lang="en">Kitting</rdfs:label>
     </owl:Class>
     
 
@@ -1143,7 +1143,7 @@ DIN 8593-8</rdfs:comment>
         <rdfs:comment>Untergruppe 4.8.2
 DIN 8593-8
 Reaktionsklebstoffe</rdfs:comment>
-        <rdfs:label xml:lang="en">Bonding with chemically reactive adhesives</rdfs:label>
+        <rdfs:label xml:lang="en">Bonding with chemical bonding adhesives</rdfs:label>
         <rdfs:label xml:lang="de">Kleben mit chemisch abbindenden Klebstoffen</rdfs:label>
     </owl:Class>
     
@@ -1155,7 +1155,7 @@ Reaktionsklebstoffe</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Kleben"/>
         <rdfs:comment>Untergruppe 4.8.1
 DIN 8593-8</rdfs:comment>
-        <rdfs:label xml:lang="en">Bonding with physically reactive adhesives</rdfs:label>
+        <rdfs:label xml:lang="en">Bonding with physical bonding adhesives</rdfs:label>
         <rdfs:label xml:lang="de">Kleben mit physikalisch abbindenden Klebstoffen</rdfs:label>
     </owl:Class>
     
@@ -1167,8 +1167,8 @@ DIN 8593-8</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#An-_und_Einpressen"/>
         <rdfs:comment>Untergruppe 4.3.2
 DIN 8593-3</rdfs:comment>
+        <rdfs:label xml:lang="en">Clamping</rdfs:label>
         <rdfs:label xml:lang="de">Klemmen</rdfs:label>
-        <rdfs:label xml:lang="en">Pinching</rdfs:label>
     </owl:Class>
     
 
@@ -1378,7 +1378,7 @@ DIN 8200</rdfs:comment>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Schmelzverbindungsschweissen"/>
         <rdfs:comment>Untergruppe 4.6.1
 DIN 8593-6</rdfs:comment>
-        <rdfs:label xml:lang="en">Joint pressure welding</rdfs:label>
+        <rdfs:label xml:lang="en">Pressure welding</rdfs:label>
         <rdfs:label xml:lang="de">Pressverbindungsschweissen</rdfs:label>
     </owl:Class>
     
@@ -1552,8 +1552,8 @@ DIN 8589-11</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen_durch_Schweissen"/>
         <rdfs:comment>Untergruppe 4.6.2
 DIN 8593-6</rdfs:comment>
-        <rdfs:label xml:lang="en">Joint fusion welding</rdfs:label>
         <rdfs:label xml:lang="de">Schmelzverbindungsschweissen</rdfs:label>
+        <rdfs:label xml:lang="en">Welding methods involving melting of materials</rdfs:label>
     </owl:Class>
     
 
@@ -1565,7 +1565,7 @@ DIN 8593-6</rdfs:comment>
         <rdfs:comment>Untergruppe 4.3.1
 DIN 8593-3</rdfs:comment>
         <rdfs:label xml:lang="de">Schrauben</rdfs:label>
-        <rdfs:label xml:lang="en">Screwing</rdfs:label>
+        <rdfs:label xml:lang="en">Screwing or bolting</rdfs:label>
     </owl:Class>
     
 
@@ -1841,8 +1841,8 @@ DIN 8584-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuellen"/>
         <rdfs:comment>Untergruppe 4.2.2
 DIN 8593-2</rdfs:comment>
-        <rdfs:label xml:lang="en">Impregnating</rdfs:label>
         <rdfs:label xml:lang="de">Traenken oder Impraegnieren</rdfs:label>
+        <rdfs:label xml:lang="en">soaking or impregnating</rdfs:label>
     </owl:Class>
     
 
@@ -1889,7 +1889,7 @@ DIN 8200</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fuegen_durch_Urformen"/>
         <rdfs:comment>Untergruppe 4.4.5
 DIN 8593-4</rdfs:comment>
-        <rdfs:label xml:lang="en">Sheathing</rdfs:label>
+        <rdfs:label xml:lang="en">Joining by coating</rdfs:label>
         <rdfs:label xml:lang="de">Ummanteln</rdfs:label>
     </owl:Class>
     
@@ -2177,7 +2177,7 @@ DIN 8587</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#An-_und_Einpressen"/>
         <rdfs:comment>Untergruppe 4.3.7
 DIN 8593-3</rdfs:comment>
-        <rdfs:label xml:lang="en">Distorting</rdfs:label>
+        <rdfs:label xml:lang="en">Tensioning</rdfs:label>
         <rdfs:label xml:lang="de">Verspannen</rdfs:label>
     </owl:Class>
     
