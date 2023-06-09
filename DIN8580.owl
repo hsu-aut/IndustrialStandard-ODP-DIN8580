@@ -979,7 +979,7 @@ DIN 8589-17</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Thermomechanisches_Behandeln"/>
         <rdfs:comment>Untergruppe 6.3.2</rdfs:comment>
         <rdfs:label xml:lang="de">Heissisostatisches Nachverdichten</rdfs:label>
-        <rdfs:label xml:lang="en">Hot isiostatic sealing</rdfs:label>
+        <rdfs:label xml:lang="en">Hot isiostatic pressing</rdfs:label>
     </owl:Class>
     
 
@@ -1783,7 +1783,7 @@ DIN 8592</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Thermochemisches_Behandeln">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Waermebehandeln"/>
         <rdfs:comment>Untergruppe 6.2.7</rdfs:comment>
-        <rdfs:label xml:lang="en">Thermal handling</rdfs:label>
+        <rdfs:label xml:lang="en">Thermochemical treating</rdfs:label>
         <rdfs:label xml:lang="de">Thermochemisches Behandeln</rdfs:label>
     </owl:Class>
     
@@ -1794,7 +1794,7 @@ DIN 8592</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Thermomechanisches_Behandeln">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Stoffeigenschaft_aendern"/>
         <rdfs:comment>Gruppe 6.3</rdfs:comment>
-        <rdfs:label xml:lang="en">Thermomechanical handling</rdfs:label>
+        <rdfs:label xml:lang="en">Thermomechanical treating</rdfs:label>
         <rdfs:label xml:lang="de">Thermomechanisches Behandeln</rdfs:label>
     </owl:Class>
     
@@ -2105,7 +2105,7 @@ DIN 8505-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Verfestigen_durch_Umformen"/>
         <rdfs:comment>Untergruppe 6.1.1
 DIN 8200</rdfs:comment>
-        <rdfs:label xml:lang="en">Shot-peening</rdfs:label>
+        <rdfs:label xml:lang="en">Shot peening</rdfs:label>
         <rdfs:label xml:lang="de">Verfestigungsstrahlen</rdfs:label>
     </owl:Class>
     
@@ -2128,7 +2128,7 @@ DIN 8593-4</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Vergueten">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Waermebehandeln"/>
         <rdfs:comment>Untergruppe 6.2.5</rdfs:comment>
-        <rdfs:label xml:lang="en">Quenching and hardening</rdfs:label>
+        <rdfs:label xml:lang="en">Hardening and tempering</rdfs:label>
         <rdfs:label xml:lang="de">Vergueten</rdfs:label>
     </owl:Class>
     
