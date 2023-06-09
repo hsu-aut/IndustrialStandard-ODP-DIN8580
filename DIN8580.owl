@@ -377,7 +377,7 @@ DIN 8586</rdfs:comment>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Biegeumformen_mit_geradliniger_Werkzeugbewegung"/>
         <rdfs:comment>Untergruppe 2.4.2
 DIN 8586</rdfs:comment>
-        <rdfs:label xml:lang="en">Bending by means of a rotary tool</rdfs:label>
+        <rdfs:label xml:lang="en">Bending with rotary tool motion</rdfs:label>
         <rdfs:label xml:lang="de">Biegeumformen mit drehender Werkzeugbewegung</rdfs:label>
     </owl:Class>
     
@@ -389,7 +389,7 @@ DIN 8586</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Biegeumformen"/>
         <rdfs:comment>Untergruppe 2.4.1
 DIN 8586</rdfs:comment>
-        <rdfs:label xml:lang="en">Bending by means of a rectilinear moving tool</rdfs:label>
+        <rdfs:label xml:lang="en">Bending with linear tool motion</rdfs:label>
         <rdfs:label xml:lang="de">Biegeumformen mit geradliniger Werkzeugbewegung</rdfs:label>
     </owl:Class>
     
@@ -542,8 +542,8 @@ DIN 8583-1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zugdruckumformen"/>
         <rdfs:comment>Untergruppe 2.2.3
 DIN 8584-4</rdfs:comment>
+        <rdfs:label xml:lang="en">Compressing</rdfs:label>
         <rdfs:label xml:lang="de">Druecken</rdfs:label>
-        <rdfs:label xml:lang="en">Pressing</rdfs:label>
     </owl:Class>
     
 
@@ -554,7 +554,7 @@ DIN 8584-4</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zugdruckumformen"/>
         <rdfs:comment>Untergruppe 2.2.1
 DIN 8584-2</rdfs:comment>
-        <rdfs:label xml:lang="en">Dimpling</rdfs:label>
+        <rdfs:label xml:lang="en">Drawing</rdfs:label>
         <rdfs:label xml:lang="de">Durchziehen</rdfs:label>
     </owl:Class>
     
@@ -579,7 +579,7 @@ DIN 8593-4</rdfs:comment>
         <rdfs:comment>Untergruppe 2.1.4
 DIN 8583-5</rdfs:comment>
         <rdfs:label xml:lang="de">Eindruecken</rdfs:label>
-        <rdfs:label xml:lang="en">Pushing in</rdfs:label>
+        <rdfs:label xml:lang="en">Pressing</rdfs:label>
     </owl:Class>
     
 
@@ -1071,7 +1071,7 @@ DIN 8593-1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zugdruckumformen"/>
         <rdfs:comment>Untergruppe 2.2.6
 DIN 8584-7</rdfs:comment>
-        <rdfs:label xml:lang="en">Hydroforming widening</rdfs:label>
+        <rdfs:label xml:lang="en">Hydroforming</rdfs:label>
         <rdfs:label xml:lang="de">Innenhochdruck-Weitstauchen</rdfs:label>
     </owl:Class>
     
@@ -1179,8 +1179,8 @@ DIN 8593-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zugdruckumformen"/>
         <rdfs:comment>Untergruppe 2.2.5
 DIN 8584-6</rdfs:comment>
+        <rdfs:label xml:lang="en">Bulge pressing</rdfs:label>
         <rdfs:label xml:lang="de">Knickbauchen</rdfs:label>
-        <rdfs:label xml:lang="en">Upset bulging</rdfs:label>
     </owl:Class>
     
 
@@ -1191,7 +1191,7 @@ DIN 8584-6</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zugdruckumformen"/>
         <rdfs:comment>Untergruppe 2.2.4
 DIN 8584-5</rdfs:comment>
-        <rdfs:label xml:lang="en">Forming by raising</rdfs:label>
+        <rdfs:label xml:lang="en">Flange forming</rdfs:label>
         <rdfs:label xml:lang="de">Kragenziehen</rdfs:label>
     </owl:Class>
     
@@ -1203,8 +1203,8 @@ DIN 8584-5</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zugumformen"/>
         <rdfs:comment>Untergruppe 2.3.1
 DIN 8585-2</rdfs:comment>
+        <rdfs:label xml:lang="en">Elongating</rdfs:label>
         <rdfs:label xml:lang="de">Laengen</rdfs:label>
-        <rdfs:label xml:lang="en">Stretch reducing</rdfs:label>
     </owl:Class>
     
 
@@ -1576,7 +1576,7 @@ DIN 8593-3</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Umformen"/>
         <rdfs:comment>Gruppe 2.5
 DIN 8587</rdfs:comment>
-        <rdfs:label xml:lang="en">Forming under shearing conditions</rdfs:label>
+        <rdfs:label xml:lang="en">Forming using shear stress</rdfs:label>
         <rdfs:label xml:lang="de">Schubumformen</rdfs:label>
     </owl:Class>
     
@@ -1829,7 +1829,7 @@ DIN 8585-4</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zugdruckumformen"/>
         <rdfs:comment>Untergruppe 2.2.2
 DIN 8584-3</rdfs:comment>
-        <rdfs:label xml:lang="en">Drawing</rdfs:label>
+        <rdfs:label xml:lang="en">Deep drawing</rdfs:label>
         <rdfs:label xml:lang="de">Tiefziehen</rdfs:label>
     </owl:Class>
     
@@ -2153,7 +2153,7 @@ DIN 8593-3</rdfs:comment>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Verschieben_mit_geradliniger_Werkzeugbewegung"/>
         <rdfs:comment>Untergruppe 2.5.2
 DIN 8587</rdfs:comment>
-        <rdfs:label xml:lang="en">Shifting by means of a tool with rotating movement</rdfs:label>
+        <rdfs:label xml:lang="en">Forming under shear stress using a tool with rotating movement</rdfs:label>
         <rdfs:label xml:lang="de">Verschieben mit drehender Werkzeugbewegung</rdfs:label>
     </owl:Class>
     
@@ -2165,7 +2165,7 @@ DIN 8587</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Schubumformen"/>
         <rdfs:comment>Untergruppe 2.5.1
 DIN 8587</rdfs:comment>
-        <rdfs:label xml:lang="en">Shifting by means of a tool with rectilinear movement</rdfs:label>
+        <rdfs:label xml:lang="en">Forming under shear stress using a tool with linear movement</rdfs:label>
         <rdfs:label xml:lang="de">Verschieben mit geradliniger Werkzeugbewegung</rdfs:label>
     </owl:Class>
     
@@ -2318,7 +2318,7 @@ DIN 8588</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Umformen"/>
         <rdfs:comment>Gruppe 2.2
 DIN 8584-1</rdfs:comment>
-        <rdfs:label xml:lang="en">Forming under combination of tensile and compressive conditions</rdfs:label>
+        <rdfs:label xml:lang="en">Forming under combination of tensile and compressive stress</rdfs:label>
         <rdfs:label xml:lang="de">Zugdruckumformen</rdfs:label>
     </owl:Class>
     
