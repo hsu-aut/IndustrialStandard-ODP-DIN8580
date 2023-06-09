@@ -182,7 +182,7 @@ DIN 8593-4</rdfs:comment>
         <rdfs:comment>Untergruppe 3.3.2
 DIN 8589-12</rdfs:comment>
         <rdfs:label xml:lang="de">Bandschleifen</rdfs:label>
-        <rdfs:label xml:lang="en">Sanding</rdfs:label>
+        <rdfs:label xml:lang="en">Belt sanding</rdfs:label>
     </owl:Class>
     
 
@@ -425,7 +425,7 @@ DIN 8589-2</rdfs:comment>
         <rdfs:comment>Untergruppe 3.1.6
 DIN 8588</rdfs:comment>
         <rdfs:label xml:lang="de">Brechen</rdfs:label>
-        <rdfs:label xml:lang="en">Removing sharp edges</rdfs:label>
+        <rdfs:label xml:lang="en">Crushing</rdfs:label>
     </owl:Class>
     
 
@@ -472,8 +472,8 @@ DIN 8590</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Reinigen"/>
         <rdfs:comment>Untergruppe 3.6.5
 DIN 8592</rdfs:comment>
-        <rdfs:label xml:lang="en">Chemical cleaning</rdfs:label>
         <rdfs:label xml:lang="de">Chemisches Reinigen</rdfs:label>
+        <rdfs:label xml:lang="en">Cleaning using chemicals</rdfs:label>
     </owl:Class>
     
 
@@ -945,8 +945,8 @@ DIN 8583-4</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Spanen_mit_geometrisch_unbestimmten_Schneiden"/>
         <rdfs:comment>Untergruppe 3.3.7
 DIN 8589-17</rdfs:comment>
-        <rdfs:label xml:lang="en">Barrel polishing</rdfs:label>
         <rdfs:label xml:lang="de">Gleitspanen</rdfs:label>
+        <rdfs:label xml:lang="en">Vibratory finishing</rdfs:label>
     </owl:Class>
     
 
@@ -1047,8 +1047,8 @@ DIN 8589-14</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Spanen_mit_geometrisch_unbestimmten_Schneiden"/>
         <rdfs:comment>Untergruppe 3.3.3
 DIN 8589-13</rdfs:comment>
-        <rdfs:label xml:lang="en">Honing by linear cutting motion</rdfs:label>
         <rdfs:label xml:lang="de">Hubschleifen</rdfs:label>
+        <rdfs:label xml:lang="en">Sanding using a tool with linear motion</rdfs:label>
     </owl:Class>
     
 
@@ -1227,8 +1227,8 @@ DIN 8589-15</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Reinigen"/>
         <rdfs:comment>Untergruppe 3.6.4
 DIN 8592</rdfs:comment>
+        <rdfs:label xml:lang="en">Cleaning using solvants</rdfs:label>
         <rdfs:label xml:lang="de">Loesemittelreinigen</rdfs:label>
-        <rdfs:label xml:lang="en">Solvant cleaning</rdfs:label>
     </owl:Class>
     
 
@@ -1240,7 +1240,7 @@ DIN 8592</rdfs:comment>
         <rdfs:comment>Untergruppe 3.5.3
 DIN 8591</rdfs:comment>
         <rdfs:label xml:lang="de">Loesen kraftschluessiger Verbindungen</rdfs:label>
-        <rdfs:label xml:lang="en">Loosening clearance fit joints</rdfs:label>
+        <rdfs:label xml:lang="en">Loosening frictional joints</rdfs:label>
     </owl:Class>
     
 
@@ -1286,7 +1286,7 @@ DIN 8592</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zerteilen"/>
         <rdfs:comment>Untergruppe 3.1.2
 DIN 8588</rdfs:comment>
-        <rdfs:label xml:lang="en">Cutting with a single balde</rdfs:label>
+        <rdfs:label xml:lang="en">Cutting with a single blade</rdfs:label>
         <rdfs:label xml:lang="de">Messerschneiden</rdfs:label>
     </owl:Class>
     
@@ -1425,8 +1425,8 @@ DIN 8592</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Reinigen"/>
         <rdfs:comment>Untergruppe 3.6.1
 DIN 8592</rdfs:comment>
+        <rdfs:label xml:lang="en">Cleaning by blasting</rdfs:label>
         <rdfs:label xml:lang="de">Reinigungsstrahlen</rdfs:label>
-        <rdfs:label xml:lang="en">Shotblasting</rdfs:label>
     </owl:Class>
     
 
@@ -1437,8 +1437,8 @@ DIN 8592</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zerteilen"/>
         <rdfs:comment>Untergruppe 3.1.5
 DIN 8588</rdfs:comment>
-        <rdfs:label xml:lang="en">Breaking</rdfs:label>
         <rdfs:label xml:lang="de">Reissen</rdfs:label>
+        <rdfs:label xml:lang="en">Ripping apart</rdfs:label>
     </owl:Class>
     
 
@@ -1496,7 +1496,7 @@ DIN 8589-9</rdfs:comment>
         <rdfs:comment>Untergruppe 3.1.1
 DIN 8588</rdfs:comment>
         <rdfs:label xml:lang="de">Scherschneiden</rdfs:label>
-        <rdfs:label xml:lang="en">Shear cutting</rdfs:label>
+        <rdfs:label xml:lang="en">Shearing</rdfs:label>
     </owl:Class>
     
 
@@ -1507,7 +1507,7 @@ DIN 8588</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Spanen_mit_geometrisch_unbestimmten_Schneiden"/>
         <rdfs:comment>Untergruppe 3.3.1
 DIN 8589-11</rdfs:comment>
-        <rdfs:label xml:lang="en">Grinding by means of a rotating tool</rdfs:label>
+        <rdfs:label xml:lang="en">Sanding using a tool with rotating motion</rdfs:label>
         <rdfs:label xml:lang="de">Schleifen mit rotierendem Werkzeug</rdfs:label>
     </owl:Class>
     
@@ -2248,7 +2248,7 @@ DIN 8591</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zerlegen"/>
         <rdfs:comment>Untergruppe 3.5.9
 DIN 8591</rdfs:comment>
-        <rdfs:label xml:lang="en">Textile junction disassembly</rdfs:label>
+        <rdfs:label xml:lang="en">Disassembling textile joints</rdfs:label>
         <rdfs:label xml:lang="de">Zerlegen textiler Verbindungen</rdfs:label>
     </owl:Class>
     
@@ -2260,7 +2260,7 @@ DIN 8591</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zerlegen"/>
         <rdfs:comment>Untergruppe 3.5.5
 DIN 8591</rdfs:comment>
-        <rdfs:label xml:lang="en">Disassembling parts joined by bending</rdfs:label>
+        <rdfs:label xml:lang="en">Disassembling parts joined by forming</rdfs:label>
         <rdfs:label xml:lang="de">Zerlegen von durch Umformen gefuegten Teilen</rdfs:label>
     </owl:Class>
     
@@ -2272,7 +2272,7 @@ DIN 8591</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Zerlegen"/>
         <rdfs:comment>Untergruppe 3.5.4
 DIN 8591</rdfs:comment>
-        <rdfs:label xml:lang="en">Disassembling parts joined by creative forming</rdfs:label>
+        <rdfs:label xml:lang="en">Disassembling parts joined by molding</rdfs:label>
         <rdfs:label xml:lang="de">Zerlegen von durch Urformen gefuegten Teilen</rdfs:label>
     </owl:Class>
     
