@@ -42,7 +42,7 @@ DIN 8591</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_gas-_oder_dampffoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.8.1</rdfs:comment>
         <rdfs:label xml:lang="de">Abscheiden aus der Dampfphase in einer Form</rdfs:label>
-        <rdfs:label xml:lang="en">Vapor deposition process </rdfs:label>
+        <rdfs:label xml:lang="en">Molding by vapor deposition</rdfs:label>
     </owl:Class>
     
 
@@ -518,8 +518,8 @@ DIN 8583-6</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Druckgiessen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.1.2</rdfs:comment>
+        <rdfs:label xml:lang="en">Compression molding</rdfs:label>
         <rdfs:label xml:lang="de">Druckgiessen</rdfs:label>
-        <rdfs:label xml:lang="en">Pressure molding</rdfs:label>
     </owl:Class>
     
 
@@ -662,8 +662,8 @@ DIN 8590</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Elektrolytisches_Abscheiden_in_einer_Form">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_ionisierten_Zustand"/>
         <rdfs:comment>Untergruppe 1.9.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Electrolytic deposition in a form</rdfs:label>
         <rdfs:label xml:lang="de">Elektrolytisches Abscheiden in einer Form</rdfs:label>
+        <rdfs:label xml:lang="en">Molding by electrolytic deposition in a form</rdfs:label>
     </owl:Class>
     
 
@@ -922,8 +922,8 @@ DIN 8583-4</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_breiigen_Zustand"/>
         <owl:disjointWith rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Giessen_von_Porzellan_oder_Keramik"/>
         <rdfs:comment>Untergruppe 1.3.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Concrete or plaster casting</rdfs:label>
         <rdfs:label xml:lang="de">Giessen von Beton oder Gips</rdfs:label>
+        <rdfs:label xml:lang="en">Molding of concrete or plaster</rdfs:label>
     </owl:Class>
     
 
@@ -934,7 +934,7 @@ DIN 8583-4</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_breiigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.3.2</rdfs:comment>
         <rdfs:label xml:lang="de">Giessen von Porzellan oder Keramik</rdfs:label>
-        <rdfs:label xml:lang="en">Porcelain or ceramics casting</rdfs:label>
+        <rdfs:label xml:lang="en">Molding of porcelain or ceramics</rdfs:label>
     </owl:Class>
     
 
@@ -1093,7 +1093,7 @@ DIN 8584-7</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Kalandrieren">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_plastischen_Zustand"/>
         <rdfs:comment>Untergruppe 1.2.6</rdfs:comment>
-        <rdfs:label xml:lang="en">Bowl glazing</rdfs:label>
+        <rdfs:label xml:lang="en">Calendering</rdfs:label>
         <rdfs:label xml:lang="de">Kalandrieren</rdfs:label>
     </owl:Class>
     
@@ -1354,8 +1354,8 @@ DIN 8200</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Pressen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_koernigen_oder_pulverfoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.4.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Compression molding</rdfs:label>
         <rdfs:label xml:lang="de">Pressen</rdfs:label>
+        <rdfs:label xml:lang="en">Sintering</rdfs:label>
     </owl:Class>
     
 
@@ -1460,7 +1460,7 @@ DIN 8589-6</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Sandformen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_koernigen_oder_pulverfoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.4.2</rdfs:comment>
-        <rdfs:label xml:lang="en">Sand molding</rdfs:label>
+        <rdfs:label xml:lang="en">Sand casting</rdfs:label>
         <rdfs:label xml:lang="de">Sandformen</rdfs:label>
     </owl:Class>
     
@@ -1518,7 +1518,7 @@ DIN 8589-11</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Schleudergiessen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.1.4</rdfs:comment>
-        <rdfs:label xml:lang="en">Centrifugal casting</rdfs:label>
+        <rdfs:label xml:lang="en">Rotational molding</rdfs:label>
         <rdfs:label xml:lang="de">Schleudergiessen</rdfs:label>
     </owl:Class>
     
@@ -1587,7 +1587,7 @@ DIN 8587</rdfs:comment>
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Schwerkraftgiessen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.1.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Gravity die casting</rdfs:label>
+        <rdfs:label xml:lang="en">Gravity casting</rdfs:label>
         <rdfs:label xml:lang="de">Schwerkraftgiessen</rdfs:label>
     </owl:Class>
     
@@ -1714,7 +1714,7 @@ DIN 8200</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_plastischen_Zustand"/>
         <rdfs:comment>Untergruppe 1.2.4
 Extrudieren</rdfs:comment>
-        <rdfs:label xml:lang="en">Rod extrusion</rdfs:label>
+        <rdfs:label xml:lang="en">Extruding</rdfs:label>
         <rdfs:label xml:lang="de">Strangpressen</rdfs:label>
     </owl:Class>
     
@@ -1901,7 +1901,7 @@ DIN 8593-4</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Fertigungsverfahren"/>
         <rdfs:comment>Hauptgruppe 1: Fertigen eines festen Koerpers aus formlosem Stoff durch Schaffen des Zusammenhaltes; 
 hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung</rdfs:comment>
-        <rdfs:label xml:lang="en">Primary forming</rdfs:label>
+        <rdfs:label xml:lang="en">Molding</rdfs:label>
         <rdfs:label xml:lang="de">Urformen</rdfs:label>
     </owl:Class>
     
@@ -1912,7 +1912,7 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_breiigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.3</rdfs:comment>
-        <rdfs:label xml:lang="en">Creative forming from from the pulpy state</rdfs:label>
+        <rdfs:label xml:lang="en">Molding of a pulpy material</rdfs:label>
         <rdfs:label xml:lang="de">Urformen aus dem breiigen Zustand</rdfs:label>
     </owl:Class>
     
@@ -1923,7 +1923,7 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.1</rdfs:comment>
-        <rdfs:label xml:lang="en">Creative forming from the liquid state</rdfs:label>
+        <rdfs:label xml:lang="en">Molding of liquid material</rdfs:label>
         <rdfs:label xml:lang="de">Urformen aus dem fluessigen Zustand</rdfs:label>
     </owl:Class>
     
@@ -1934,7 +1934,7 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_gas-_oder_dampffoermigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.8</rdfs:comment>
-        <rdfs:label xml:lang="en">Primary forming from gaseous or vapour state</rdfs:label>
+        <rdfs:label xml:lang="en">Molding of gaseous or vapour materials</rdfs:label>
         <rdfs:label xml:lang="de">Urformen aus dem gas- oder dampffoermigen Zustand</rdfs:label>
     </owl:Class>
     
@@ -1945,7 +1945,7 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_ionisierten_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.9</rdfs:comment>
-        <rdfs:label xml:lang="en">Primary forming from the ionized sate</rdfs:label>
+        <rdfs:label xml:lang="en">Molding of ionized materials</rdfs:label>
         <rdfs:label xml:lang="de">Urformen aus dem ionisierten Zustand</rdfs:label>
     </owl:Class>
     
@@ -1956,7 +1956,7 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_koernigen_oder_pulverfoermigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.4</rdfs:comment>
-        <rdfs:label xml:lang="en">Primary forming from the granulare or the powdery state</rdfs:label>
+        <rdfs:label xml:lang="en">Molding of granular or powder material</rdfs:label>
         <rdfs:label xml:lang="de">Urformen aus dem koernigen oder pulverfoermigen Zustand</rdfs:label>
     </owl:Class>
     
@@ -1967,7 +1967,7 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_plastischen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.2</rdfs:comment>
-        <rdfs:label xml:lang="en">Creative forming from the plastic state</rdfs:label>
+        <rdfs:label xml:lang="en">Molding of plastic material</rdfs:label>
         <rdfs:label xml:lang="de">Urformen aus dem plastischen Zustand</rdfs:label>
     </owl:Class>
     
@@ -1978,7 +1978,7 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_span-_oder_faserfoermigen_Zustand">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen"/>
         <rdfs:comment>Gruppe 1.5</rdfs:comment>
-        <rdfs:label xml:lang="en">Creative forming from chips of from a fibrous state</rdfs:label>
+        <rdfs:label xml:lang="en">Molding of fibrous material</rdfs:label>
         <rdfs:label xml:lang="de">Urformen aus dem span- oder faserfoermigen Zustand</rdfs:label>
     </owl:Class>
     
@@ -1989,7 +1989,7 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
     <owl:Class rdf:about="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_durch_thermisches_Spritzen">
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_koernigen_oder_pulverfoermigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.4.3</rdfs:comment>
-        <rdfs:label xml:lang="en">Primary forming by means of thermal spray</rdfs:label>
+        <rdfs:label xml:lang="en">Deposition by thermal spraying</rdfs:label>
         <rdfs:label xml:lang="de">Urformen durch thermisches Spritzen</rdfs:label>
     </owl:Class>
     
@@ -2001,7 +2001,7 @@ hierbei treten die Stoffeigenschaften des Werkstueckes bestimmbar in Erscheinung
         <rdfs:subClassOf rdf:resource="http://www.hsu-ifa.de/ontologies/DIN8580#Urformen_aus_dem_fluessigen_Zustand"/>
         <rdfs:comment>Untergruppe 1.1.8
 Niederdruckverfahren</rdfs:comment>
-        <rdfs:label xml:lang="en">Primary forming of fibre reinforced plastics</rdfs:label>
+        <rdfs:label xml:lang="en">Molding of fibre reinforced plastics</rdfs:label>
         <rdfs:label xml:lang="de">Urformen von faserverstaerkten Kunststoffen</rdfs:label>
     </owl:Class>
     
